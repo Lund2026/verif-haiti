@@ -1,0 +1,925 @@
+{
+  "posts": [
+    {
+      "slug": "onu-22-milliards-baisse-criminalite",
+      "title": "L’ONU aurait envoyé 22 milliards de dollars à Haïti, et la criminalité aurait baissé en trois semaines",
+      "claim": "L'ONU aurait envoyé 22 milliards de dollars à Haïti en 30 ans, et Bukele aurait fait baisser la criminalité en Haïti en trois semaines",
+      "circulated": "X (publication en espagnol de plus de 7 800 partages, 14 nov., et versions françaises de plus de 1 300 partages)",
+      "verdict": "Non vérifié",
+      "facts": "Ajout 15 nov. : aucune source de l'ONU ne documente un total de 22 milliards de dollars « envoyés » à Haïti. Le chiffre documenté le plus proche concerne la mission de maintien de la paix MINUSTAH (2004-2017), dont le coût a dépassé 7,33 milliards de dollars selon les recensements cités par la presse; un budget de mission de l'ONU paie surtout le personnel et les opérations, ce n'est pas un transfert d'argent à l'État haïtien. Aucune statistique officielle (PNH, BINUH) ne mesure à ce jour une baisse de la criminalité en Haïti depuis l'arrivée des Salvadoriens, fin octobre. Selon l'ONU, la grande majorité des soldats salvadoriens n'agit pas sous le mandat de la FRG.",
+      "date": "2026-11-15",
+      "date_display": "15 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-15",
+      "sources": [
+        {
+          "title": "datosinteresantes.net",
+          "site": "datosinteresantes.net",
+          "date": "14 nov. 2026",
+          "href": "https://datosinteresantes.net/noticias/bukele-haiti-onu-millones-gastados-decadas/",
+          "primary": true
+        }
+      ],
+      "order": 0
+    },
+    {
+      "slug": "soldats-americains-enleves-ultimatum-trump",
+      "title": "Des soldats américains auraient été enlevés en Haïti, et Donald Trump aurait lancé un ultimatum aux gangs",
+      "claim": "Des soldats américains auraient été enlevés en Haïti, et Donald Trump aurait lancé un ultimatum aux gangs",
+      "circulated": "X (publications virales et réponses, 14-15 nov.)",
+      "verdict": "Faux",
+      "facts": "Ajout 15 nov. : aucun soldat américain n'a été enlevé en Haïti. Les disparus sont quatre techniciens militaires salvadoriens de la FRG, pris dans une embuscade le 18 oct. près de Port-au-Prince. L'ultimatum aux gangs vient de Nayib Bukele, pas de Trump. Les États-Unis disent ne pas participer activement à l'opération salvadorienne (Marco Rubio, 9 nov.).",
+      "date": "2026-11-15",
+      "date_display": "15 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-15",
+      "sources": [
+        {
+          "title": "BBC Mundo",
+          "site": "BBC Mundo",
+          "href": "https://www.bbc.com/mundo/articles/cwg7xe5gnvzeo",
+          "primary": true
+        }
+      ],
+      "order": 1
+    },
+    {
+      "slug": "barbecue-poulailler-deguise-en-femme",
+      "title": "« Barbecue » se serait caché dans un poulailler, puis déguisé en femme",
+      "claim": "Jimmy Chérizier, alias « Barbecue », se serait caché dans un poulailler, puis déguisé en femme pour échapper aux soldats salvadoriens",
+      "circulated": "Réseaux sociaux, 14 nov. (signalé comme rumeur non confirmée par des comptes de veille haïtiens)",
+      "verdict": "Non vérifié",
+      "facts": "Ajout 15 nov. : aucune déclaration de la PNH, du gouvernement haïtien, du gouvernement salvadorien ni de la FRG, et aucun média fiable ne rapporte cet épisode au 15 nov. Comme les rumeurs précédentes sur sa capture ou sur un éventuel transfert au CECOT, elle ne s'appuie sur aucune image authentifiée.",
+      "date": "2026-11-15",
+      "date_display": "15 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-15",
+      "sources": [
+        {
+          "title": "Publication sur X",
+          "site": "X",
+          "date": "14 nov. 2026",
+          "href": "https://x.com/i/status/2121711152233070850",
+          "primary": true
+        }
+      ],
+      "order": 2
+    },
+    {
+      "slug": "forces-salvadoriennes-reprise-stade-sylvio-cator",
+      "title": "Ce sont les forces salvadoriennes qui ont repris le stade Sylvio-Cator",
+      "claim": "Ce sont les forces salvadoriennes qui ont repris le stade Sylvio-Cator aux gangs (publications de Bukele et de comptes pro-Bukele, 12-13 nov.)",
+      "circulated": "X (Nayib Bukele et comptes affiliés), reprises dans des médias latino-américains",
+      "verdict": "Trompeur",
+      "facts": "Ajout 14 nov. : selon le communiqué de la PNH cité par le Miami Herald (14 nov.), ce sont des policiers haïtiens, appuyés par la Task Force de drones explosifs du bureau du premier ministre, qui ont repris le stade, avant d'en confier la consolidation et la sécurisation aux Forces armées du Salvador. Bukele présente l'opération comme conjointe (PNH, FAd'H, Task Force et forces spéciales salvadoriennes) et a lancé un ultimatum aux gangs pour qu'ils quittent la zone avant une offensive. Le Miami Herald relève un écart croissant entre l'image projetée en ligne par Bukele, qui s'attribue des gains de la police haïtienne, et la réalité sur le terrain.",
+      "date": "2026-11-14",
+      "date_display": "14 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-14",
+      "sources": [
+        {
+          "title": "postguam.com",
+          "site": "postguam.com",
+          "href": "https://www.postguam.com/news/world/el-salvador-s-president-bukele-says-his-forces-took-back-haiti-stadium-but-haiti-police/article_ae919cc7-e79e-471b-b265-8795f069c752.html",
+          "primary": true
+        },
+        {
+          "title": "La PNH annonce la reprise du stade Sylvio-Cator",
+          "site": "Juno7",
+          "date": "12 nov. 2026",
+          "href": "https://www.juno7.ht/pnh-reprise-stade-sylvio-cator-bukele/",
+          "primary": false
+        },
+        {
+          "title": "Stade Sylvio-Cator : Bukele parle de crânes humains",
+          "site": "Infobae",
+          "date": "13 nov. 2026",
+          "href": "https://www.infobae.com/el-salvador/2026/11/13/bukele-afirmo-que-tropas-salvadorenas-usaran-un-estadio-de-haiti-como-base-descubrimos-varios-craneos-humanos/",
+          "primary": false
+        },
+        {
+          "title": "Reprise du stade : vérification indépendante impossible",
+          "site": "The Haitian Times",
+          "date": "12 nov. 2026",
+          "href": "https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/",
+          "primary": false
+        }
+      ],
+      "order": 3
+    },
+    {
+      "slug": "barbecue-supplie-de-ne-pas-etre-envoye-au-cecot",
+      "title": "« Barbecue » supplierait de ne pas être envoyé au CECOT",
+      "claim": "Jimmy Chérizier, alias « Barbecue », supplierait de ne pas être envoyé au CECOT, la mégaprison salvadorienne",
+      "circulated": "Comptes pro-Bukele sur X, 13 nov. (version dénoncée comme désinformation par d'autres comptes)",
+      "verdict": "Non vérifié",
+      "facts": "Ajout 14 nov. : aucune vidéo authentifiée, aucune déclaration de la PNH, du gouvernement haïtien ni du gouvernement salvadorien, et aucun média fiable ne confirme cette affirmation au 14 nov. Barbecue n'a pas été annoncé comme capturé. Des rumeurs semblables sur sa capture ou sa mort ont déjà circulé sans confirmation.",
+      "date": "2026-11-14",
+      "date_display": "14 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-14",
+      "sources": [
+        {
+          "title": "Publication sur X",
+          "site": "X",
+          "date": "13 nov. 2026",
+          "href": "https://x.com/i/status/2121256787139522707",
+          "primary": true
+        }
+      ],
+      "order": 4
+    },
+    {
+      "slug": "cranes-humains-stade-sylvio-cator",
+      "title": "Des crânes humains auraient été découverts dans le stade Sylvio-Cator",
+      "claim": "Les forces haïtiennes et salvadoriennes ont repris le stade Sylvio-Cator; « nous avons découvert plusieurs crânes humains à l'intérieur du stade » (Bukele, 12 nov.)",
+      "circulated": "Publication de Nayib Bukele sur X (12 nov. au soir), reprise par de nombreux médias haïtiens et latino-américains",
+      "verdict": "Non vérifié",
+      "facts": "Ajout 13 nov. : la reprise du stade est confirmée. Dans un communiqué du 12 nov., la PNH dit avoir repris, avec la Task Force, le contrôle total du stade et de ses environs lors d'une opération à l'aube, puis l'avoir remis aux Forces armées du Salvador (Juno7, Infobae). Bukele décrit une opération conjointe PNH–FAd'H–Task Force–forces spéciales salvadoriennes dans le cadre de l'accord bilatéral, hors FRG. La découverte de crânes repose pour l'instant sur la seule déclaration et la vidéo de Bukele : aucune source officielle haïtienne n'en a précisé le nombre, l'origine, l'ancienneté ni l'identité des victimes, et le Haitian Times n'a pas pu la vérifier de façon indépendante.",
+      "date": "2026-11-13",
+      "date_display": "13 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-13",
+      "sources": [
+        {
+          "title": "La PNH annonce la reprise du stade Sylvio-Cator",
+          "site": "Juno7",
+          "date": "12 nov. 2026",
+          "href": "https://www.juno7.ht/pnh-reprise-stade-sylvio-cator-bukele/",
+          "primary": true
+        },
+        {
+          "title": "Stade Sylvio-Cator : Bukele parle de crânes humains",
+          "site": "Infobae",
+          "date": "13 nov. 2026",
+          "href": "https://www.infobae.com/el-salvador/2026/11/13/bukele-afirmo-que-tropas-salvadorenas-usaran-un-estadio-de-haiti-como-base-descubrimos-varios-craneos-humanos/",
+          "primary": false
+        },
+        {
+          "title": "Reprise du stade : vérification indépendante impossible",
+          "site": "The Haitian Times",
+          "date": "12 nov. 2026",
+          "href": "https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/",
+          "primary": false
+        }
+      ],
+      "order": 5
+    },
+    {
+      "slug": "etats-unis-suspension-operations-salvadoriennes",
+      "title": "Les États-Unis auraient exigé la suspension des opérations salvadoriennes",
+      "claim": "Les États-Unis ont exigé la suspension des opérations salvadoriennes; les soldats salvadoriens ne resteront pas en Haïti",
+      "circulated": "Réseaux sociaux et médias haïtiens, 10-11 nov., après un article d'Axios",
+      "verdict": "Trompeur",
+      "facts": "Ajout 12 nov. : selon Axios (10 nov.), le chargé d'affaires américain en Haïti, David Howell, a écrit le 4 nov. au premier ministre Fils-Aimé pour demander que le Salvador arrête ses opérations « jusqu'à ce qu'ils se coordonnent » avec la FRG, et l'ambassade américaine à San Salvador a envoyé le 5 nov. une note de protestation sur ce manque de coordination. Le Salvador rejette ces affirmations (il nie avoir eu trois blessés et que ses tirs aient touché l'ambassade). Publiquement, le Département d'État dit apprécier les efforts salvadoriens tout en exigeant une meilleure coordination, comme Marco Rubio le 9 nov. Aucune suspension n'a été confirmée, et le vice-président salvadorien Félix Ulloa dit qu'aucune date de retour n'est fixée; la visite de Fils-Aimé au Salvador les 16 et 17 nov. doit porter sur l'avenir des troupes. Le RNDDH (11 nov.) qualifie de désinformation les rumeurs d'un départ des Salvadoriens.",
+      "date": "2026-11-12",
+      "date_display": "12 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-12",
+      "sources": [
+        {
+          "title": "Le Salvador conteste les objections du Département d'État",
+          "site": "Axios",
+          "date": "10 nov. 2026",
+          "href": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs",
+          "primary": true
+        },
+        {
+          "title": "Le RNDDH dément une demande américaine de suspension",
+          "site": "Le Quotidien 509",
+          "date": "11 nov. 2026",
+          "href": "https://lequotidien509.com/haiti-securite-le-rnddh-dement-toute-demande-americaine-de-suspension-des-operations-salvadoriennes/",
+          "primary": false
+        },
+        {
+          "title": "Fils-Aimé au Salvador les 16 et 17 nov.",
+          "site": "El Diario de Hoy",
+          "date": null,
+          "href": "https://www.elsalvador.com/noticias/nacional/tropas-salvadorenas-haiti-futuro/1302808/2026/",
+          "primary": false
+        }
+      ],
+      "order": 6
+    },
+    {
+      "slug": "drones-fly-boats-arcahaie",
+      "title": "Des dizaines de membres de gangs auraient été tués par des drones au large de l’Arcahaie",
+      "claim": "Plusieurs dizaines de membres de gangs tués par des drones kamikazes à bord de « Fly Boats » au large de Luly (Arcahaie), le 9 nov.",
+      "circulated": "Médias haïtiens (Radiographie, Le National), 9-11 nov.",
+      "verdict": "Non vérifié",
+      "facts": "Ajout 12 nov. : rapporté par des sources locales (au moins six explosions entendues). Aucune autorité n'a communiqué de bilan, d'identités ni l'unité responsable de l'opération au 12 nov.",
+      "date": "2026-11-12",
+      "date_display": "12 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-12",
+      "sources": [
+        {
+          "title": "Frappes de drones au large de l'Arcahaie",
+          "site": "Radiographie",
+          "date": "9 nov. 2026",
+          "href": "https://radiographieht.com/plusieurs-dizaines-de-membres-de-gangs-tues-en-pleine-mer-a-arcahaie/",
+          "primary": true
+        }
+      ],
+      "order": 7
+    },
+    {
+      "slug": "demolition-maison-lanmo-sanjou",
+      "title": "Des soldats salvadoriens auraient démoli la maison de Lanmò Sanjou",
+      "claim": "« Hier soir à 3 h du matin », des soldats salvadoriens ont démoli la maison de Lanmò Sanjou et blessé mortellement plusieurs membres de gangs; « nous avons détruit la maison de Lanmò Sanjou et le QG de 400 Mawozo » (Bukele, 10 nov.)",
+      "circulated": "X (compte pro-Bukele, plus de 78 000 vues, 8 nov.), sites haïtiens, puis publication vidéo de Nayib Bukele sur X (10 nov.) reprise par de nombreux médias",
+      "verdict": "Trompeur",
+      "facts": "Mise à jour 11 nov. : le 10 nov., Bukele a diffusé une vidéo d'hélicoptères aux couleurs du Salvador tirant sur un complexe à Croix-des-Bouquets et présente l'opération comme celle de ses forces, sans date ni bilan. Selon l'AFP (citée par BBC Mundo), l'attaque a eu lieu le dimanche 8 nov. et a été menée par une unité de la police haïtienne avec l'appui de militaires salvadoriens (drones explosifs, troupes au sol, quatre hélicoptères dont deux salvadoriens); deux sources parlent de jusqu'à 20 hommes armés tués. L'insécurité empêche toute vérification sur le terrain, et la PNH n'a toujours publié aucun bilan officiel. Mise à jour 10 nov. : selon plusieurs sources du Miami Herald, la résidence a bien été détruite vers 2 h 30 le dimanche 8 nov. par la Task Force de drones explosifs de la PNH (appuyée par des contractuels privés), avec quatre hélicoptères, dont deux salvadoriens. Plusieurs hommes armés (jusqu'à une vingtaine selon deux sources) auraient été tués; Wilson Joseph n'était pas sur place. Ce n'était donc pas une opération des seuls soldats salvadoriens, et aucun bilan officiel de la PNH n'a été publié. Version initiale : plusieurs médias haïtiens (Enfòmem, citant Le Facteur Haïti et une source policière) rapportent qu'une résidence attribuée à Wilson Joseph à Croix-des-Bouquets a été détruite par des frappes de drones vers 3 h le 8 nov. Selon cette même source, l'opération était conjointe (PNH, FRG, Task Force et militaires salvadoriens), et non menée par les seuls Salvadoriens. Aucun communiqué de la PNH ni dépêche AP/Reuters trouvés au 9 nov.; aucun bilan de morts confirmé. Bukele avait demandé sur X, le 5-6 nov., l'adresse de cette maison pour la détruire. Une autre propriété attribuée au chef de gang se trouve à Dimiso (Thomazeau).",
+      "date": "2026-11-11",
+      "date_display": "11 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-11",
+      "sources": [
+        {
+          "title": "Bukele dit avoir détruit le QG de 400 Mawozo",
+          "site": "BBC News Mundo",
+          "date": "10 nov. 2026",
+          "href": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko",
+          "primary": true
+        },
+        {
+          "title": "Frappe de drones contre la résidence de Lanmò Sanjou",
+          "site": "Miami Herald",
+          "date": "9 nov. 2026",
+          "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317992703.html",
+          "primary": false
+        },
+        {
+          "title": "Frappe contre 400 Mawozo et appel d'Amnistie internationale",
+          "site": "Al Jazeera",
+          "date": "10 nov. 2026",
+          "href": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead",
+          "primary": false
+        },
+        {
+          "title": "Destruction rapportée de la résidence de Lanmò Sanjou",
+          "site": "Enfòmem",
+          "date": "8 nov. 2026",
+          "href": "https://enfomem.com/croix-des-bouquets-la-residence-du-caid-lanmo-san-jou-reduite-en-ruines-lors-dune-operation-policiere/",
+          "primary": false
+        }
+      ],
+      "order": 8
+    },
+    {
+      "slug": "haiti-liberee-des-gangs-en-quelques-jours",
+      "title": "Haïti aurait été « libérée » des gangs en quelques jours par les soldats de Bukele",
+      "claim": "Haïti a été « libérée » des gangs en quelques jours par les soldats de Bukele",
+      "circulated": "X, publications virales en anglais et en espagnol, 8-9 nov.",
+      "verdict": "Faux",
+      "facts": "Mise à jour 12 nov. : un message en espagnol vu plus de 149 000 fois le 11 nov. affirme que les gangs ont « fini cachés » depuis l'arrivée des Salvadoriens. Or, le 11 nov., la FRG menait encore une opération au nord de l'aéroport de Port-au-Prince pour reprendre des zones tenues par des gangs, et des gangs ont rétabli des postes de péage à Martissant après une intervention policière le 10 nov. (Le Quotidien 509). Selon l'ONU (3 nov.), les gangs contrôlent encore la majeure partie de Port-au-Prince. Le Nouvelliste rapporte que les opérations se poursuivent pour déloger les gangs de plusieurs zones de Croix-des-Bouquets, et le gouvernement prévoit de les étendre à l'Ouest, à l'Artibonite et au Centre. Les quatre techniciens salvadoriens restent introuvables après 21 jours.",
+      "date": "2026-11-12",
+      "date_display": "12 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-12",
+      "sources": [
+        {
+          "title": "Le Salvador envoie 2 000 soldats; l'ONU précise le cadre",
+          "site": "ONU Info",
+          "date": "3 nov. 2026",
+          "href": "https://news.un.org/en/story/2026/11/1168728",
+          "primary": true
+        },
+        {
+          "title": "Opération de la FRG au nord de l'aéroport",
+          "site": "FRG sur X",
+          "date": "11 nov. 2026",
+          "href": "https://x.com/GSForceHaiti/status/2120651306624745714",
+          "primary": false
+        },
+        {
+          "title": "21 jours après, les quatre Salvadoriens restent disparus",
+          "site": "El Diario de Hoy",
+          "date": "8 nov. 2026",
+          "href": "https://www.elsalvador.com/noticias/nacional/cuatro-militares-salvadorenos-desaparecidos-haiti/1303076/2026/",
+          "primary": false
+        }
+      ],
+      "order": 9
+    },
+    {
+      "slug": "video-premier-affrontement-kazakhstan",
+      "title": "Une vidéo montre le « premier affrontement armé » entre soldats salvadoriens et gangs près de Port-au-Prince",
+      "claim": "Une vidéo montre le « premier affrontement armé » entre soldats salvadoriens et gangs haïtiens près de Port-au-Prince / Cul-de-Sac",
+      "circulated": "Facebook, Instagram, TikTok et médias locaux; plus de 2 000 partages (AFP Factual, 5 nov.)",
+      "verdict": "Faux",
+      "facts": "Entraînement des Forces d'opérations spéciales du Kazakhstan (AOK-CCO) au camp de Koktal, près de Zharkent, publié le 28 juillet 2026. Uniformes portant les lettres AOK-CCO visibles au début de la séquence.",
+      "date": "2026-11-05",
+      "date_display": "5 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-05",
+      "sources": [
+        {
+          "title": "Vidéo du Kazakhstan faussement liée à Haïti",
+          "site": "AFP Factual",
+          "date": "5 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D6KK7ZR",
+          "primary": true
+        }
+      ],
+      "order": 10
+    },
+    {
+      "slug": "trois-videos-pandilleros-afrique",
+      "title": "Trois vidéos montreraient des pandilleros haïtiens en débandade ou un opératif salvadorien",
+      "claim": "Trois vidéos montrent des pandilleros haïtiens en débandade, le gang 400 Mawozo, ou un opératif salvadorien pour retrouver les soldats kidnappés",
+      "circulated": "Facebook et X, dizaines de partages; vérifiées par AFP Factual le 4 nov. au soir",
+      "verdict": "Faux",
+      "facts": "1) Mineurs fuyant la mine de Rubaya (RDC), 17 oct. 2) Opération de police de l'État de Zamfara (Nigeria); inscription « Zamfara State Police Command » visible. 3) Attaque au marché d'Amiet (Abyei, frontière Soudan/Soudan du Sud), 20 oct. Aucune des séquences n'a été filmée en Haïti.",
+      "date": "2026-11-04",
+      "date_display": "4 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-04",
+      "sources": [
+        {
+          "title": "Trois vidéos d'Afrique faussement liées à Haïti",
+          "site": "AFP Factual",
+          "date": "4 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D6GA863",
+          "primary": true
+        }
+      ],
+      "order": 11
+    },
+    {
+      "slug": "video-soldats-plage-equateur",
+      "title": "Une vidéo montrerait des soldats salvadoriens débarquant sur une plage haïtienne",
+      "claim": "Une vidéo montre des soldats salvadoriens débarquant sur une plage haïtienne pour secourir leurs 4 soldats",
+      "circulated": "Réseaux sociaux, plus de 4 000 partages (AFP)",
+      "verdict": "Faux",
+      "facts": "Images de l'exercice multinational SOLIDAREX V 2026 à Manta, en Équateur (21-23 octobre).",
+      "date": "2026-10-28",
+      "date_display": "Fin octobre 2026",
+      "date_precision": "month",
+      "date_note": "La date exacte de la vérification AFP n'est pas précisée dans la source; le tri utilise la période des autres vérifications AFP Factual de fin octobre 2026.",
+      "updated": "2026-10-28",
+      "sources": [
+        {
+          "title": "Vidéo d'exercice en Équateur",
+          "site": "AFP Factual",
+          "date": null,
+          "href": "https://factual.afp.com/doc.afp.com.D4LH2KE",
+          "primary": true
+        }
+      ],
+      "order": 12
+    },
+    {
+      "slug": "video-otages-duran-equateur",
+      "title": "Des soldats d’élite salvadoriens libéreraient deux otages en Haïti",
+      "claim": "Des soldats d'élite salvadoriens libèrent deux otages en Haïti (vidéo)",
+      "circulated": "Facebook, plus de 2 000 partages (AFP)",
+      "verdict": "Faux",
+      "facts": "Opération militaire à Durán, province du Guayas, en Équateur, le 18 octobre 2026.",
+      "date": "2026-10-28",
+      "date_display": "Fin octobre 2026",
+      "date_precision": "month",
+      "date_note": "La date exacte de la vérification AFP n'est pas précisée dans la source; le tri utilise la période des autres vérifications AFP Factual de fin octobre 2026.",
+      "updated": "2026-10-28",
+      "sources": [
+        {
+          "title": "Vidéo de sauvetage à Durán",
+          "site": "AFP Factual",
+          "date": null,
+          "href": "https://factual.afp.com/doc.afp.com.D4V37G4",
+          "primary": true
+        }
+      ],
+      "order": 13
+    },
+    {
+      "slug": "video-drapeaux-usulutan",
+      "title": "Une vidéo de soldats avec des drapeaux salvadoriens montrerait leur arrivée en Haïti",
+      "claim": "Une vidéo de soldats avec des drapeaux salvadoriens montre leur arrivée en Haïti",
+      "circulated": "Réseaux sociaux, plus de 1 500 partages (AFP)",
+      "verdict": "Faux",
+      "facts": "Filmée le 10 septembre 2026 devant une caserne d'Usulután, au Salvador.",
+      "date": "2026-10-28",
+      "date_display": "Fin octobre 2026",
+      "date_precision": "month",
+      "date_note": "La date exacte de la vérification AFP n'est pas précisée dans la source; le tri utilise la période des autres vérifications AFP Factual de fin octobre 2026.",
+      "updated": "2026-10-28",
+      "sources": [
+        {
+          "title": "Vidéo filmée à Usulután",
+          "site": "AFP Factual",
+          "date": null,
+          "href": "https://factual.afp.com/doc.afp.com.D4YL9NQ",
+          "primary": true
+        }
+      ],
+      "order": 14
+    },
+    {
+      "slug": "video-entree-forces-angola",
+      "title": "Une vidéo montrerait l’entrée des forces salvadoriennes en Haïti, sous les tirs",
+      "claim": "Une vidéo montre l'entrée des forces salvadoriennes en Haïti, sous les tirs",
+      "circulated": "X et réseaux sociaux, plus de 1 000 partages (AFP)",
+      "verdict": "Faux",
+      "facts": "Affrontements et manifestations filmés en août 2026 à Cazombo, en Angola. Ajout 13 nov. : la même vidéo a été reprise par le média hondurien Teleprogreso sur Facebook; Honduras Verifica confirme qu'elle date des troubles du 24 août lors des funérailles d'un chef traditionnel à Cazombo (on y entend du portugais).",
+      "date": "2026-10-28",
+      "date_display": "28 octobre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-13",
+      "updated_display": "13 novembre 2026",
+      "sources": [
+        {
+          "title": "Vidéo d'affrontements en Angola",
+          "site": "AFP Factual",
+          "date": "28 oct. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D4QG3CQ",
+          "primary": true
+        },
+        {
+          "title": "Vidéo d'Angola relayée par un média hondurien",
+          "site": "Honduras Verifica",
+          "date": null,
+          "href": "https://hondurasverifica.org/este-video-de-supuestos-militares-salvadorenos-en-haiti-es-falso-las-imagenes-corresponden-a-disturbios-en-angola/",
+          "primary": false
+        }
+      ],
+      "order": 15
+    },
+    {
+      "slug": "video-haitiens-fuient-sierra-leone",
+      "title": "Des Haïtiens fuiraient pour leur vie après des « attaques » salvadoriennes",
+      "claim": "Des Haïtiens fuient pour leur vie après des « attaques » salvadoriennes (vidéo)",
+      "circulated": "Facebook, Instagram, TikTok, YouTube, plus de 1 000 partages (AFP)",
+      "verdict": "Faux",
+      "facts": "Bagarre après un match de soccer au Parade Ground de Freetown, en Sierra Leone, le 6 septembre 2026. L'AFP n'a rapporté aucun affrontement entre l'armée salvadorienne et la population haïtienne.",
+      "date": "2026-10-27",
+      "date_display": "27 octobre 2026",
+      "date_precision": "day",
+      "updated": "2026-10-27",
+      "sources": [
+        {
+          "title": "Vidéo de bagarre en Sierra Leone",
+          "site": "AFP Factual",
+          "date": "27 oct. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D4M23G7",
+          "primary": true
+        }
+      ],
+      "order": 16
+    },
+    {
+      "slug": "video-remerciements-burkina-faso",
+      "title": "« Voici comment les Haïtiens ont remercié » les soldats salvadoriens et guatémaltèques",
+      "claim": "« Voici comment les Haïtiens ont remercié » les soldats salvadoriens et guatémaltèques (vidéo de foule)",
+      "circulated": "TikTok et Facebook, plus de 6 000 partages (AFP)",
+      "verdict": "Faux",
+      "facts": "Bain de foule du capitaine Ibrahim Traoré, chef de la junte du Burkina Faso, à Boromo, le 8 septembre 2026.",
+      "date": "2026-10-28",
+      "date_display": "28 octobre 2026",
+      "date_precision": "day",
+      "updated": "2026-10-28",
+      "sources": [
+        {
+          "title": "Vidéo de foule au Burkina Faso",
+          "site": "AFP Factual",
+          "date": "28 oct. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D4R29CV",
+          "primary": true
+        }
+      ],
+      "order": 17
+    },
+    {
+      "slug": "mathias-saintil-chef-gang-boston-tue",
+      "title": "Mathias Saintil, chef du gang Boston, a été tué",
+      "claim": "Mathias Saintil, chef du gang Boston (Cité Soleil), a été tué",
+      "circulated": "X, médias haïtiens et internationaux, 6-7 nov.",
+      "verdict": "Vrai",
+      "facts": "Confirmé le 6 nov. par la PNH et le premier ministre Fils-Aimé (« un chef de gang en moins »). Les récits divergent sur les circonstances : selon un rapport du RNDDH cité par Reuters, il a été blessé par une frappe de drone le 5 nov. au soir et est mort le lendemain; selon la PNH citée par Al Jazeera, il a été atteint de plusieurs balles lors d'une opération policière. Aucune source officielle n'attribue l'opération aux soldats salvadoriens.",
+      "date": "2026-11-06",
+      "date_display": "6 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-06",
+      "sources": [
+        {
+          "title": "Le premier ministre confirme la mort de Mathias Saintil",
+          "site": "Reuters",
+          "date": "6 nov. 2026",
+          "href": "https://www.reuters.com/3fec1b0a85a0/world/americas/haiti-pm-says-gang-leader-mathias-saintil-dead-2026-11-07/",
+          "primary": true
+        },
+        {
+          "title": "« Un chef de gang en moins » : version de la PNH",
+          "site": "Al Jazeera",
+          "date": "7 nov. 2026",
+          "href": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation",
+          "primary": false
+        }
+      ],
+      "order": 18
+    },
+    {
+      "slug": "barbecue-jimmy-cherizier-est-mort",
+      "title": "Jimmy Chérizier, alias « Barbecue », serait mort",
+      "claim": "Jimmy Chérizier, alias « Barbecue », est mort",
+      "circulated": "X et sites de rumeurs, 6-7 nov.",
+      "verdict": "Non vérifié",
+      "facts": "Aucune confirmation de la PNH, du gouvernement ni d'un média fiable au 7 nov. Des rumeurs semblables sur sa mort ou sa capture ont déjà circulé et ont été démenties par le passé.",
+      "date": "2026-11-07",
+      "date_display": "7 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-07",
+      "sources": [
+        {
+          "title": "Publication sur X",
+          "site": "X",
+          "date": "6-7 nov. 2026",
+          "href": "https://x.com/MARCELINOMXES/status/2118862512938532949",
+          "primary": true
+        }
+      ],
+      "order": 19
+    },
+    {
+      "slug": "quatre-mille-soldats-salvador-frg",
+      "title": "Le Salvador aurait envoyé 4 000 soldats, ou la FRG en compterait 4 000",
+      "claim": "Le Salvador a envoyé 4 000 soldats en Haïti / la FRG compte désormais 4 000 soldats",
+      "circulated": "Dépêche CANA (CANANews, 6 nov.) et Satellite509 (3 nov.) sur le point de presse du premier ministre",
+      "verdict": "Trompeur",
+      "facts": "Selon Le Nouvelliste, le chiffre de 4 000 donné le 3 nov. désigne l'ensemble des forces internationales sur le terrain (FRG et soldats salvadoriens confondus), et non le seul Salvador ni la seule FRG. Reuters, l'AP et l'ONU parlent d'un peu plus de 2 000 Salvadoriens (jusqu'à 2 500 selon la BBC), et l'UNSOH appuyait un peu plus de 1 500 membres de la FRG fin septembre.",
+      "date": "2026-11-06",
+      "date_display": "6 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-06",
+      "sources": [
+        {
+          "title": "CANA News",
+          "site": "CANA News",
+          "date": "6 nov. 2026",
+          "href": "https://www.cananews.com/prime-minister-prime-fils-aime-confident-of-security-being-restored-to-haiti/",
+          "primary": true
+        },
+        {
+          "title": "4 000 soldats internationaux sur le terrain, selon le gouvernement",
+          "site": "Radio Télé Caramel",
+          "date": "8 nov. 2026",
+          "href": "https://caramelhaiti.com/securite-renforts-internationaux-forces-haitiennes/",
+          "primary": false
+        },
+        {
+          "title": "Le Salvador envoie 2 000 soldats; l'ONU précise le cadre",
+          "site": "ONU Info",
+          "date": "3 nov. 2026",
+          "href": "https://news.un.org/en/story/2026/11/1168728",
+          "primary": false
+        }
+      ],
+      "order": 20
+    },
+    {
+      "slug": "wilson-joseph-lanmo-sanjou-capture",
+      "title": "Wilson Joseph (Lanmò Sanjou) aurait été capturé par les forces salvadoriennes",
+      "claim": "Wilson Joseph (Lanmò Sanjou), chef de 400 Mawozo, a été capturé par les forces salvadoriennes lors d'une opération de nuit",
+      "circulated": "X et réseaux sociaux (publications « BREAKING NEWS » du 4-6 nov.; sites non fiables)",
+      "verdict": "Faux",
+      "facts": "Aucune annonce de la PNH, de la FRG, du Salvador ou de l'ONU au 7 nov. Wilson Joseph a encore parlé à l'AP le 3 nov.; le FBI le recherche toujours. Lead Stories (6 nov.) a établi que la photo virale de sa « capture » porte un filigrane SynthID : elle a été générée par l'IA de Google.",
+      "date": "2026-11-06",
+      "date_display": "6 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-06",
+      "sources": [
+        {
+          "title": "Photo de la capture de Wilson Joseph générée par IA",
+          "site": "Lead Stories",
+          "date": "6 nov. 2026",
+          "href": "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-image-showing-capture-of-wilson-joseph-was-made-with-google-ai.html",
+          "primary": true
+        },
+        {
+          "title": "Entrevue AP avec Lanmò Sanjou",
+          "site": "AP",
+          "date": "nov. 2026",
+          "href": "https://apnews.com/article/lanmo-sanjou-letter-un-gang-violence-wilson-josph-374dfb531e5c919c3139649c7d63cefe",
+          "primary": false
+        }
+      ],
+      "order": 21
+    },
+    {
+      "slug": "kenken-jean-saint-louis-capture-haute-mer",
+      "title": "Jean Saint-Louis, alias « Kenken », aurait été capturé en haute mer",
+      "claim": "Jean Saint-Louis, alias « Kenken », chef de gang, a été capturé en haute mer par la Garde côtière haïtienne et des militaires salvadoriens alors qu'il fuyait vers les Bahamas",
+      "circulated": "X et médias régionaux dominicains/haïtiens, 5-6 nov.; des journalistes demandent à la PNH si c'est une fausse nouvelle",
+      "verdict": "Non vérifié",
+      "facts": "Aucune confirmation officielle de la PNH, de la Garde côtière, du Salvador, de l'AP ou de Reuters au 7 nov. Selon 100% Noticias, l'un des médias qui avait d'abord annoncé l'arrestation a publié une rectification niant qu'elle ait eu lieu. Un Jean Saint-Louis alias « Ti Kenken » avait aussi été annoncé mort en oct. 2024 (Radio Graphie), ce qui jette un doute sur l'identité.",
+      "date": "2026-11-07",
+      "date_display": "7 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-07",
+      "sources": [
+        {
+          "title": "Kenken : rectification d'un média sur la capture annoncée",
+          "site": "100% Noticias",
+          "date": "nov. 2026",
+          "href": "https://100noticias.tv/internacionales/150330-kenken-haiti-captura-militares-salvadorenos/",
+          "primary": true
+        },
+        {
+          "title": "Rumeur Kenken : prudence sur l'identité et l'absence de confirmation",
+          "site": "Diario al Día",
+          "date": "5 nov. 2026",
+          "href": "https://diarioaldia.com/jean-saint-louis/",
+          "primary": false
+        }
+      ],
+      "order": 22
+    },
+    {
+      "slug": "rituel-complot-quatre-salvadoriens-disparus",
+      "title": "Les quatre Salvadoriens disparus auraient été tués dans un rituel, ou victimes d’un complot politique",
+      "claim": "Les quatre Salvadoriens disparus auraient été tués et leurs restes utilisés dans un rituel; leur enlèvement serait un complot de personnalités politiques",
+      "circulated": "Communicateur salvadorien « El Jos » sur ses réseaux, relayé par des médias en ligne (6 nov.)",
+      "verdict": "Non vérifié",
+      "facts": "Affirmations attribuées à des sources anonymes, sans aucune preuve présentée. Aucune autorité (PNH, FRG, Salvador) ne confirme un rituel, un complot politique ni la mort des quatre hommes; ils restent officiellement disparus et les recherches se poursuivent.",
+      "date": "2026-11-06",
+      "date_display": "6 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-06",
+      "sources": [
+        {
+          "title": "Rumeur de rituel et de complot autour des quatre Salvadoriens",
+          "site": "Diario al Día",
+          "date": "6 nov. 2026",
+          "href": "https://diarioaldia.com/surge-version-sobre-los-cuatro-salvadorenos-desaparecidos-en-haiti/",
+          "primary": true
+        }
+      ],
+      "order": 23
+    },
+    {
+      "slug": "soldat-tchadien-frg-disparu",
+      "title": "Un soldat tchadien de la FRG aurait lui aussi disparu",
+      "claim": "Un soldat tchadien de la FRG a lui aussi disparu (sa carte militaire circule sur les réseaux)",
+      "circulated": "Réseaux sociaux, fin oct.",
+      "verdict": "Faux",
+      "facts": "Selon la FRG (25 oct.), la carte militaire tchadienne trouvée parmi des éléments remis par un intermédiaire humanitaire avait été perdue par son propriétaire pendant les recherches; il est vivant et toujours dans son unité. Les restes humains remis n'ont pas été identifiés comme ceux des Salvadoriens, et Bukele a affirmé qu'il ne s'agissait pas de ses hommes.",
+      "date": "2026-10-25",
+      "date_display": "25 octobre 2026",
+      "date_precision": "day",
+      "updated": "2026-10-25",
+      "sources": [
+        {
+          "title": "La FRG dément la disparition d'un soldat tchadien",
+          "site": "Ayiti Info+",
+          "date": null,
+          "href": "https://www.ayiti-info.com/article.php?slug=frg-restes-humains-soldat-tchadien-vivant-haiti-2026",
+          "primary": true
+        }
+      ],
+      "order": 24
+    },
+    {
+      "slug": "quatre-soldats-salvadoriens-disparus-morts",
+      "title": "Les quatre soldats salvadoriens disparus seraient morts",
+      "claim": "Les quatre soldats salvadoriens disparus sont morts",
+      "circulated": "Lettre et entrevue du chef de gang Wilson Joseph (400 Mawozo) à l'ONU / AP, relayées par les médias",
+      "verdict": "Non vérifié",
+      "facts": "Affirmation d'un chef de gang, sans preuve indépendante. Les autorités haïtiennes les considèrent comme disparus et le gouvernement salvadorien les croit toujours vivants. La PNH a retrouvé leur véhicule calciné à Santo (4 nov.), sans trace des hommes.",
+      "date": "2026-11-04",
+      "date_display": "4 novembre 2026",
+      "date_precision": "day",
+      "date_note": "La date retenue est celle de l'annonce, par la PNH et l'AP, de la découverte du véhicule calciné, citée dans les faits vérifiés. La lettre et l'entrevue de Wilson Joseph sont datées de novembre 2026 dans les sources, sans jour plus précis pour l'affirmation elle-même.",
+      "updated": "2026-11-04",
+      "sources": [
+        {
+          "title": "L'ONU entre appels au dialogue des gangs et offensive salvadorienne",
+          "site": "ONU Info (fr)",
+          "date": "nov. 2026",
+          "href": "https://news.un.org/fr/story/2026/11/1159776",
+          "primary": true
+        },
+        {
+          "title": "Véhicule calciné des quatre Salvadoriens retrouvé à Santo",
+          "site": "AP",
+          "date": "4 nov. 2026",
+          "href": "https://apnews.com/article/haiti-el-salvador-gangs-bukele-0302160e058789506d72c9e2a6c1bfc9",
+          "primary": false
+        },
+        {
+          "title": "Entrevue AP avec Lanmò Sanjou",
+          "site": "AP",
+          "date": "nov. 2026",
+          "href": "https://apnews.com/article/lanmo-sanjou-letter-un-gang-violence-wilson-josph-374dfb531e5c919c3139649c7d63cefe",
+          "primary": false
+        }
+      ],
+      "order": 25
+    },
+    {
+      "slug": "delegation-onu-18-novembre-400-mawozo",
+      "title": "L’ONU enverrait une délégation le 18 novembre pour négocier avec 400 Mawozo",
+      "claim": "L'ONU enverra une délégation le 18 novembre à Croix-des-Bouquets pour négocier avec 400 Mawozo et a demandé de suspendre les opératifs",
+      "circulated": "Communiqué attribué à Lanmò Sanjou, relayé en ligne",
+      "verdict": "Non vérifié",
+      "facts": "Affirmation du chef de gang. L'ONU a confirmé avoir reçu sa lettre sans l'approuver. L'ex-diplomate Edwin Paraison affirme (5 nov.) qu'une source ONU de haut niveau lui a dit que c'était faux; aucune confirmation publique d'une délégation le 18 nov.",
+      "date": "2026-11-05",
+      "date_display": "5 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-05",
+      "sources": [
+        {
+          "title": "Excónsul dit fausse la « mission de paix » annoncée par 400 Mawozo",
+          "site": "El Nuevo Diario",
+          "date": "5 nov. 2026",
+          "href": "https://elnuevodiario.com.do/exconsul-califica-de-falsa-supuesta-llegada-de-mision-de-paz-de-la-onu-a-haiti/",
+          "primary": true
+        },
+        {
+          "title": "L'ONU entre appels au dialogue des gangs et offensive salvadorienne",
+          "site": "ONU Info (fr)",
+          "date": "nov. 2026",
+          "href": "https://news.un.org/fr/story/2026/11/1159776",
+          "primary": false
+        }
+      ],
+      "order": 26
+    },
+    {
+      "slug": "helicopteres-salvadoriens-soldats-tchadiens",
+      "title": "Des hélicoptères d’attaque salvadoriens auraient repoussé des gangs qui attaquaient des soldats tchadiens",
+      "claim": "Des hélicoptères d'attaque salvadoriens ont repoussé des gangs qui attaquaient des soldats tchadiens de la FRG",
+      "circulated": "Publication de Nayib Bukele sur X (3 nov. au soir), plus de 600 000 vues",
+      "verdict": "Non vérifié",
+      "facts": "Déclaration d'un chef d'État; aucune confirmation de la FRG ni de source indépendante trouvée au 4 novembre. Le Tchad figure bien parmi les pays contributeurs.",
+      "date": "2026-11-04",
+      "date_display": "4 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-04",
+      "sources": [
+        {
+          "title": "Publication de Nayib Bukele sur X",
+          "site": "X",
+          "date": "3 nov. 2026",
+          "href": "https://x.com/nayibbukele/status/2117773416094994924",
+          "primary": true
+        }
+      ],
+      "order": 27
+    },
+    {
+      "slug": "soldats-salvadoriens-partie-de-la-force-onu",
+      "title": "Les quelque 2 000 soldats salvadoriens en Haïti feraient partie de la force de l’ONU",
+      "claim": "Les quelque 2 000 soldats salvadoriens en Haïti font partie de la force de l'ONU",
+      "circulated": "Réseaux sociaux et commentaires",
+      "verdict": "Trompeur",
+      "facts": "Selon le porte-parole de l'ONU, seuls environ 200 Salvadoriens relèvent de la FRG; le reste est un déploiement bilatéral Haïti-Salvador, hors du contrôle onusien. Le porte-parole de la FRG, Igor Rugwiza, l'a confirmé le 7 nov. : la partie intégrée à la FRG suit sa chaîne de commandement et ses règles d'engagement, l'autre reste sous commandement salvadorien.",
+      "date": "2026-11-07",
+      "date_display": "7 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-07",
+      "sources": [
+        {
+          "title": "Le Salvador envoie 2 000 soldats; l'ONU précise le cadre",
+          "site": "ONU Info",
+          "date": "3 nov. 2026",
+          "href": "https://news.un.org/en/story/2026/11/1168728",
+          "primary": true
+        },
+        {
+          "title": "ONU: la grande majorité des militaires salvadoriens ne relève pas de la FRG",
+          "site": "Le Nouvelliste",
+          "date": "3 nov. 2026",
+          "href": "https://lenouvelliste.com/article/273523/onu-la-grande-majorite-des-militaires-salvadoriens-ne-releve-par-de-la-frg",
+          "primary": false
+        },
+        {
+          "title": "La FRG précise sous quel commandement opèrent les Salvadoriens",
+          "site": "Infobae",
+          "date": "7 nov. 2026",
+          "href": "https://www.infobae.com/el-salvador/2026/11/07/el-portavoz-de-la-fuerza-aclaro-bajo-que-mando-operan-los-militares-salvadorenos-en-haiti/",
+          "primary": false
+        }
+      ],
+      "order": 28
+    },
+    {
+      "slug": "frg-casques-bleus-onu",
+      "title": "La FRG serait une force de Casques bleus de l’ONU",
+      "claim": "La FRG est une force de Casques bleus de l'ONU",
+      "circulated": "Discussions en ligne",
+      "verdict": "Trompeur",
+      "facts": "Autorisée par le Conseil de sécurité, mais formée d'États membres volontaires (mission non onusienne). L'ONU fournit un soutien logistique via le Bureau d'appui (UNSOH).",
+      "date": "2026-11-15",
+      "date_display": "Vérifié au 15 novembre 2026",
+      "date_precision": "as_of",
+      "date_note": "Aucune date de circulation précise n'est indiquée dans la source. La mention « Vérifié au 15 novembre 2026 » correspond à la date de mise à jour de la page de référence. Pour le tri, cette fiche est classée parmi les vérifications de référence, avant la vague de rumeurs d'octobre-novembre.",
+      "sort_date": "2026-09-30",
+      "updated": "2026-09-30",
+      "sources": [
+        {
+          "title": "Prévisions mensuelles Haïti, sept. 2026",
+          "site": "Security Council Report",
+          "date": null,
+          "href": "https://www.securitycouncilreport.org/monthly-forecast/2026-09/haiti-36.php",
+          "primary": true
+        },
+        {
+          "title": "Résolution 2793 : transition MSS vers FRG",
+          "site": "ONU, press.un.org",
+          "date": "30 sept. 2025",
+          "href": "https://press.un.org/en/2025/sc16185.doc.htm",
+          "primary": false
+        },
+        {
+          "title": "Résolution 2829 : renouvellement jusqu'au 31 mars 2027",
+          "site": "ONU, press.un.org",
+          "date": "29 sept. 2026",
+          "href": "https://press.un.org/en/2026/sc16466.doc.htm",
+          "primary": false
+        }
+      ],
+      "order": 29
+    },
+    {
+      "slug": "force-anti-gangs-deja-5500-soldats",
+      "title": "La force anti-gangs compterait déjà ses 5 500 soldats",
+      "claim": "La force anti-gangs compte déjà ses 5 500 soldats",
+      "circulated": "Discussions en ligne",
+      "verdict": "Faux",
+      "facts": "1 213 militaires et policiers au 31 août 2026; plus de 1 500 sur le terrain fin septembre selon les États-Unis. Le plafond autorisé n'est pas atteint.",
+      "date": "2026-09-30",
+      "date_display": "Fin septembre 2026",
+      "date_precision": "month",
+      "date_note": "Les chiffres cités portent sur le 31 août 2026 et la fin septembre 2026. Aucune date de circulation plus précise n'est indiquée dans la source.",
+      "updated": "2026-09-30",
+      "sources": [
+        {
+          "title": "Premier rapport d'étape de la FRG (S/2026/732)",
+          "site": "HaitiDocs",
+          "date": "sept. 2026",
+          "href": "https://www.haitidocs.org/doc/gsf-annual-progress-report-2026",
+          "primary": true
+        },
+        {
+          "title": "Remarques après le renouvellement du mandat",
+          "site": "Ambassade des États-Unis en Haïti",
+          "date": null,
+          "href": "https://ht.usembassy.gov/remarks-following-the-adoption-of-a-un-security-council-resolution-to-renew-the-gang-suppression-force-mandate/",
+          "primary": false
+        }
+      ],
+      "order": 30
+    },
+    {
+      "slug": "bombardements-civils-enfants-tues",
+      "title": "Des forces salvadoriennes bombarderaient des civils, dont des enfants",
+      "claim": "Des forces salvadoriennes bombardent des civils; « des enfants tués par des bombes étrangères »",
+      "circulated": "Lettre ouverte d'un groupe de la diaspora à l'ONU, relayée en ligne",
+      "verdict": "Non vérifié",
+      "facts": "Accusations de l'Association des Nations unies-Haïti (UNA-Haïti), sans enquête indépendante publiée à ce jour. Bukele dément (31 oct.) : selon lui, son contingent n'a pas de bombes et ses hélicoptères d'attaque, arrivés le 29 octobre, n'avaient encore fait aucune mission. La FRG affirme (1er nov.) ne pas utiliser d'engins explosifs. L'ONU rappelle que toute opération doit respecter le droit international.",
+      "date": "2026-11-01",
+      "date_display": "1er novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-01",
+      "sources": [
+        {
+          "title": "Bukele dément les accusations de bombardements",
+          "site": "Lambi News",
+          "date": null,
+          "href": "https://www.lambinews.com/articles/haiti-accuse-de-bombardements-contre-des-civils-bukele-defend-ses-soldats-et-denonce-de-fausses-informations",
+          "primary": true
+        }
+      ],
+      "order": 31
+    },
+    {
+      "slug": "forces-etrangeres-remplacent-etat-haitien",
+      "title": "Les forces étrangères remplaceraient l’État haïtien",
+      "claim": "Les forces étrangères remplacent l'État haïtien",
+      "circulated": "Discours souverainistes en ligne",
+      "verdict": "Trompeur",
+      "facts": "La résolution 2793 prévoit une action en coordination avec le gouvernement haïtien. Le premier ministre Fils-Aimé déclare que la direction des forces étrangères revient à Haïti.",
+      "date": "2026-11-03",
+      "date_display": "3 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-03",
+      "sources": [
+        {
+          "title": "Le premier ministre s'exprime sur les troupes salvadoriennes",
+          "site": "AP",
+          "date": "3 nov. 2026",
+          "href": "https://apnews.com/article/haiti-prime-minister-el-salvador-gangs-un-fefbf2e40c1eef1cac6b0281cef961d0",
+          "primary": true
+        },
+        {
+          "title": "Résolution 2793 : transition MSS vers FRG",
+          "site": "ONU, press.un.org",
+          "date": "30 sept. 2025",
+          "href": "https://press.un.org/en/2025/sc16185.doc.htm",
+          "primary": false
+        }
+      ],
+      "order": 32
+    }
+  ]
+}

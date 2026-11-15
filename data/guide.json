@@ -1,0 +1,33 @@
+{
+  "intro": "Une vidéo choc, sans date ni lieu, est le format le plus souvent détourné. Voici comment vérifier une rumeur avant de la partager.",
+  "steps": [
+    {
+      "title": "Arrêtez-vous avant de partager",
+      "detail": "Une vidéo choc, sans date ni lieu, est le format le plus souvent détourné."
+    },
+    {
+      "title": "Recherche d'image inversée",
+      "detail": "Capturez une image clé et cherchez-la dans Google Lens, TinEye ou InVID. Les vidéos fausses ci-dessus venaient d'Équateur, du Salvador, d'Angola, de Sierra Leone, du Burkina Faso, de la RDC, du Nigeria, d'Abyei et du Kazakhstan."
+    },
+    {
+      "title": "Cherchez des indices de lieu",
+      "detail": "Plaques, enseignes, uniformes, drapeaux, paysage, langue parlée. Exemples récents : « Zamfara State Police Command » (Nigeria) et lettres AOK-CCO des forces spéciales du Kazakhstan."
+    },
+    {
+      "title": "Remontez à la source officielle",
+      "detail": "Comptes officiels de la FRG, communiqués de l'ONU (press.un.org, news.un.org), gouvernement haïtien."
+    },
+    {
+      "title": "Comparez plusieurs médias fiables",
+      "detail": "AFP Factuel, Reuters, AP, Radio-Canada, Le Nouvelliste, AyiboPost."
+    },
+    {
+      "title": "Distinguez FRG et forces bilatérales",
+      "detail": "Tout soldat étranger en Haïti n'est pas forcément sous mandat de l'ONU."
+    },
+    {
+      "title": "Si rien ne confirme, dites-le",
+      "detail": "« Non vérifié » n'est pas « faux » : c'est une invitation à attendre."
+    }
+  ]
+}

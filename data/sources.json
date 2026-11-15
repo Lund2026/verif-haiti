@@ -1,0 +1,395 @@
+{
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 15 novembre 2026.",
+  "links": [
+    {
+      "title": "Opération de la FRG à Fort-Dimanche : 18 armes saisies",
+      "site": "NAGO News",
+      "date": "14 nov. 2026",
+      "href": "https://news.nago.tv/la-frg-saisit-18-armes-lors-d-une-operation-a-fort-dimanche"
+    },
+    {
+      "title": "Le Canada mobilise plus de 100 partenaires en appui à la FRG",
+      "site": "Le Nouvelliste",
+      "date": "13 nov. 2026",
+      "href": "https://lenouvelliste.com/en/article/273884/haiti-canada-mobilizes-over-100-international-partners-in-support-of-the-gsf"
+    },
+    {
+      "title": "812 militaires ivoiriens attendus au sein de la FRG",
+      "site": "KOACI",
+      "date": "14 nov. 2026",
+      "href": "https://www.koaci.com/article/2026/11/14/cote-divoire/societe/cote-divoire-un-contingent-ivoirien-enfin-deploye-en-haiti_202611.html"
+    },
+    {
+      "title": "Conférence au Salvador : Fils-Aimé retiré de la liste des intervenants",
+      "site": "Haitian Globe",
+      "date": "14 nov. 2026",
+      "href": "https://www.haitianglobe.com/article/conf-rence-au-salvador-les-16-et-17-novembre-fils-aim-et-bellerive-ne-figurent-plus-sur-la-liste-des-intervenants-la-table-ronde-sur-ha-ti"
+    },
+    {
+      "title": "Cinq forces face aux gangs en Haïti",
+      "site": "EFE",
+      "date": "15 nov. 2026",
+      "href": "https://efe.com/mundo/2026-11-15/enfrentamientos-bandas-armadas-haiti/"
+    },
+    {
+      "title": "La PNH annonce la reprise du stade Sylvio-Cator",
+      "site": "Juno7",
+      "date": "12 nov. 2026",
+      "href": "https://www.juno7.ht/pnh-reprise-stade-sylvio-cator-bukele/"
+    },
+    {
+      "title": "Stade Sylvio-Cator : Bukele parle de crânes humains",
+      "site": "Infobae",
+      "date": "13 nov. 2026",
+      "href": "https://www.infobae.com/el-salvador/2026/11/13/bukele-afirmo-que-tropas-salvadorenas-usaran-un-estadio-de-haiti-como-base-descubrimos-varios-craneos-humanos/"
+    },
+    {
+      "title": "Reprise du stade : vérification indépendante impossible",
+      "site": "The Haitian Times",
+      "date": "12 nov. 2026",
+      "href": "https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/"
+    },
+    {
+      "title": "Opération de la FRG à Cité Soleil",
+      "site": "Le Nouvelliste",
+      "date": "12 nov. 2026",
+      "href": "https://lenouvelliste.com/en/article/273867/cite-soleil-a-suspected-gang-member-killed-and-weapons-seized-during-an-frg-operation"
+    },
+    {
+      "title": "Le G7 appuie la FRG",
+      "site": "Miami Herald",
+      "date": "nov. 2026",
+      "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318038032.html"
+    },
+    {
+      "title": "Vidéo d'Angola relayée par un média hondurien",
+      "site": "Honduras Verifica",
+      "date": null,
+      "href": "https://hondurasverifica.org/este-video-de-supuestos-militares-salvadorenos-en-haiti-es-falso-las-imagenes-corresponden-a-disturbios-en-angola/"
+    },
+    {
+      "title": "Opération de la FRG au nord de l'aéroport",
+      "site": "FRG sur X",
+      "date": "11 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2120651306624745714"
+    },
+    {
+      "title": "Le Salvador conteste les objections du Département d'État",
+      "site": "Axios",
+      "date": "10 nov. 2026",
+      "href": "https://www.axios.com/2026/11/10/el-salvador-state-department-haiti-gangs"
+    },
+    {
+      "title": "Le RNDDH dément une demande américaine de suspension",
+      "site": "Le Quotidien 509",
+      "date": "11 nov. 2026",
+      "href": "https://lequotidien509.com/haiti-securite-le-rnddh-dement-toute-demande-americaine-de-suspension-des-operations-salvadoriennes/"
+    },
+    {
+      "title": "Fils-Aimé au Salvador les 16 et 17 nov.",
+      "site": "El Diario de Hoy",
+      "date": null,
+      "href": "https://www.elsalvador.com/noticias/nacional/tropas-salvadorenas-haiti-futuro/1302808/2026/"
+    },
+    {
+      "title": "Frappes de drones au large de l'Arcahaie",
+      "site": "Radiographie",
+      "date": "9 nov. 2026",
+      "href": "https://radiographieht.com/plusieurs-dizaines-de-membres-de-gangs-tues-en-pleine-mer-a-arcahaie/"
+    },
+    {
+      "title": "Résolution 2793 : transition MSS vers FRG",
+      "site": "ONU, press.un.org",
+      "date": "30 sept. 2025",
+      "href": "https://press.un.org/en/2025/sc16185.doc.htm"
+    },
+    {
+      "title": "Résolution 2829 : renouvellement jusqu'au 31 mars 2027",
+      "site": "ONU, press.un.org",
+      "date": "29 sept. 2026",
+      "href": "https://press.un.org/en/2026/sc16466.doc.htm"
+    },
+    {
+      "title": "Premier rapport d'étape de la FRG (S/2026/732)",
+      "site": "HaitiDocs",
+      "date": "sept. 2026",
+      "href": "https://www.haitidocs.org/doc/gsf-annual-progress-report-2026"
+    },
+    {
+      "title": "Remarques après le renouvellement du mandat",
+      "site": "Ambassade des États-Unis en Haïti",
+      "date": null,
+      "href": "https://ht.usembassy.gov/remarks-following-the-adoption-of-a-un-security-council-resolution-to-renew-the-gang-suppression-force-mandate/"
+    },
+    {
+      "title": "Bukele dit avoir détruit le QG de 400 Mawozo",
+      "site": "BBC News Mundo",
+      "date": "10 nov. 2026",
+      "href": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko"
+    },
+    {
+      "title": "Frappe contre 400 Mawozo et appel d'Amnistie internationale",
+      "site": "Al Jazeera",
+      "date": "10 nov. 2026",
+      "href": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+    },
+    {
+      "title": "Abinader appuie Bukele; la FRG répond sur la coordination",
+      "site": "AP",
+      "date": "10 nov. 2026",
+      "href": "https://apnews.com/article/dominican-republic-abinader-salvador-haiti-gangs-troops-55c1bdb8c82fce3b5d49ad33e6d8c194"
+    },
+    {
+      "title": "Le premier ministre haïtien ira au Salvador",
+      "site": "AP",
+      "date": "10 nov. 2026",
+      "href": "https://apnews.com/article/haiti-gangs-el-salvador-bukele-filsaime-c0986699cb1d618aed28f406d5a6975d"
+    },
+    {
+      "title": "Le Salvador envoie 2 000 soldats; l'ONU précise le cadre",
+      "site": "ONU Info",
+      "date": "3 nov. 2026",
+      "href": "https://news.un.org/en/story/2026/11/1168728"
+    },
+    {
+      "title": "L'ONU se distancie du renfort salvadorien",
+      "site": "Miami Herald",
+      "date": null,
+      "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317899359.html"
+    },
+    {
+      "title": "Le premier ministre s'exprime sur les troupes salvadoriennes",
+      "site": "AP",
+      "date": "3 nov. 2026",
+      "href": "https://apnews.com/article/haiti-prime-minister-el-salvador-gangs-un-fefbf2e40c1eef1cac6b0281cef961d0"
+    },
+    {
+      "title": "Le premier ministre confirme la mort de Mathias Saintil",
+      "site": "Reuters",
+      "date": "6 nov. 2026",
+      "href": "https://www.reuters.com/3fec1b0a85a0/world/americas/haiti-pm-says-gang-leader-mathias-saintil-dead-2026-11-07/"
+    },
+    {
+      "title": "« Un chef de gang en moins » : version de la PNH",
+      "site": "Al Jazeera",
+      "date": "7 nov. 2026",
+      "href": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation"
+    },
+    {
+      "title": "La FRG précise sous quel commandement opèrent les Salvadoriens",
+      "site": "Infobae",
+      "date": "7 nov. 2026",
+      "href": "https://www.infobae.com/el-salvador/2026/11/07/el-portavoz-de-la-fuerza-aclaro-bajo-que-mando-operan-los-militares-salvadorenos-en-haiti/"
+    },
+    {
+      "title": "400 Mawozo contacte l'organisme de désarmement",
+      "site": "AP",
+      "date": "6 nov. 2026",
+      "href": "https://apnews.com/article/haiti-400-mawozo-gang-disarmament-bukele-salvador-defa482a4dd9d0304833dac9c797e864"
+    },
+    {
+      "title": "Rumeur de rituel et de complot autour des quatre Salvadoriens",
+      "site": "Diario al Día",
+      "date": "6 nov. 2026",
+      "href": "https://diarioaldia.com/surge-version-sobre-los-cuatro-salvadorenos-desaparecidos-en-haiti/"
+    },
+    {
+      "title": "La FRG dément la disparition d'un soldat tchadien",
+      "site": "Ayiti Info+",
+      "date": null,
+      "href": "https://www.ayiti-info.com/article.php?slug=frg-restes-humains-soldat-tchadien-vivant-haiti-2026"
+    },
+    {
+      "title": "Photo de la capture de Wilson Joseph générée par IA",
+      "site": "Lead Stories",
+      "date": "6 nov. 2026",
+      "href": "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-image-showing-capture-of-wilson-joseph-was-made-with-google-ai.html"
+    },
+    {
+      "title": "Kenken : rectification d'un média sur la capture annoncée",
+      "site": "100% Noticias",
+      "date": "nov. 2026",
+      "href": "https://100noticias.tv/internacionales/150330-kenken-haiti-captura-militares-salvadorenos/"
+    },
+    {
+      "title": "Frappe de drones contre la résidence de Lanmò Sanjou",
+      "site": "Miami Herald",
+      "date": "9 nov. 2026",
+      "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317992703.html"
+    },
+    {
+      "title": "Rubio : la FRG doit réussir, « pas de plan B »",
+      "site": "Miami Herald",
+      "date": "9 nov. 2026",
+      "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318005705.html"
+    },
+    {
+      "title": "Défense, PNH et FRG renforcent leur coordination",
+      "site": "Le Nouvelliste",
+      "date": "9 nov. 2026",
+      "href": "https://lenouvelliste.com/en/article/273721/security-defense-pnh-and-frg-strengthen-their-coordination-against-armed-groups"
+    },
+    {
+      "title": "Les troupes de Bukele opèrent sans règles claires",
+      "site": "El País",
+      "date": "9 nov. 2026",
+      "href": "https://elpais.com/america/2026-11-09/las-tropas-de-bukele-en-haiti-operan-sin-reglas-claras-ni-fecha-de-retorno-son-su-propia-fuerza.html"
+    },
+    {
+      "title": "Destruction rapportée de la résidence de Lanmò Sanjou",
+      "site": "Enfòmem",
+      "date": "8 nov. 2026",
+      "href": "https://enfomem.com/croix-des-bouquets-la-residence-du-caid-lanmo-san-jou-reduite-en-ruines-lors-dune-operation-policiere/"
+    },
+    {
+      "title": "Renforts attendus : Ivoiriens et Bangladais",
+      "site": "Le Nouvelliste",
+      "date": "6 nov. 2026",
+      "href": "https://lenouvelliste.com/article/273667/le-renforcement-des-capacites-des-forces-de-securite-se-poursuit"
+    },
+    {
+      "title": "4 000 soldats internationaux sur le terrain, selon le gouvernement",
+      "site": "Radio Télé Caramel",
+      "date": "8 nov. 2026",
+      "href": "https://caramelhaiti.com/securite-renforts-internationaux-forces-haitiennes/"
+    },
+    {
+      "title": "21 jours après, les quatre Salvadoriens restent disparus",
+      "site": "El Diario de Hoy",
+      "date": "8 nov. 2026",
+      "href": "https://www.elsalvador.com/noticias/nacional/cuatro-militares-salvadorenos-desaparecidos-haiti/1303076/2026/"
+    },
+    {
+      "title": "Vidéo du Kazakhstan faussement liée à Haïti",
+      "site": "AFP Factual",
+      "date": "5 nov. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D6KK7ZR"
+    },
+    {
+      "title": "Trois vidéos d'Afrique faussement liées à Haïti",
+      "site": "AFP Factual",
+      "date": "4 nov. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D6GA863"
+    },
+    {
+      "title": "525 tonnes d'équipements pour le contingent bangladais",
+      "site": "Le Nouvelliste",
+      "date": "5 nov. 2026",
+      "href": "https://lenouvelliste.com/article/273620/lallemagne-facilite-lacheminement-de-525-tonnes-dequipements-destines-a-la-force-de-repression-des-gangs-en-haiti"
+    },
+    {
+      "title": "Rumeur Kenken : prudence sur l'identité et l'absence de confirmation",
+      "site": "Diario al Día",
+      "date": "5 nov. 2026",
+      "href": "https://diarioaldia.com/jean-saint-louis/"
+    },
+    {
+      "title": "Excónsul dit fausse la « mission de paix » annoncée par 400 Mawozo",
+      "site": "El Nuevo Diario",
+      "date": "5 nov. 2026",
+      "href": "https://elnuevodiario.com.do/exconsul-califica-de-falsa-supuesta-llegada-de-mision-de-paz-de-la-onu-a-haiti/"
+    },
+    {
+      "title": "Véhicule calciné des quatre Salvadoriens retrouvé à Santo",
+      "site": "AP",
+      "date": "4 nov. 2026",
+      "href": "https://apnews.com/article/haiti-el-salvador-gangs-bukele-0302160e058789506d72c9e2a6c1bfc9"
+    },
+    {
+      "title": "Bukele met en avant l'intervention militaire en Haïti",
+      "site": "Al Jazeera",
+      "date": "5 nov. 2026",
+      "href": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti"
+    },
+    {
+      "title": "Entrevue AP avec Lanmò Sanjou",
+      "site": "AP",
+      "date": "nov. 2026",
+      "href": "https://apnews.com/article/lanmo-sanjou-letter-un-gang-violence-wilson-josph-374dfb531e5c919c3139649c7d63cefe"
+    },
+    {
+      "title": "ONU: la grande majorité des militaires salvadoriens ne relève pas de la FRG",
+      "site": "Le Nouvelliste",
+      "date": "3 nov. 2026",
+      "href": "https://lenouvelliste.com/article/273523/onu-la-grande-majorite-des-militaires-salvadoriens-ne-releve-par-de-la-frg"
+    },
+    {
+      "title": "Vidéo d'exercice en Équateur",
+      "site": "AFP Factual",
+      "date": null,
+      "href": "https://factual.afp.com/doc.afp.com.D4LH2KE"
+    },
+    {
+      "title": "Vidéo d'affrontements en Angola",
+      "site": "AFP Factual",
+      "date": "28 oct. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D4QG3CQ"
+    },
+    {
+      "title": "Vidéo de bagarre en Sierra Leone",
+      "site": "AFP Factual",
+      "date": "27 oct. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D4M23G7"
+    },
+    {
+      "title": "Vidéo de foule au Burkina Faso",
+      "site": "AFP Factual",
+      "date": "28 oct. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D4R29CV"
+    },
+    {
+      "title": "L'ONU entre appels au dialogue des gangs et offensive salvadorienne",
+      "site": "ONU Info (fr)",
+      "date": "nov. 2026",
+      "href": "https://news.un.org/fr/story/2026/11/1159776"
+    },
+    {
+      "title": "La PNH lance une opération dans la plaine du Cul-de-Sac",
+      "site": "Le Nouvelliste",
+      "date": "3 nov. 2026",
+      "href": "https://lenouvelliste.com/en/article/273497/security-the-pnh-launches-a-large-scale-operation-in-the-cul-de-sac-plain"
+    },
+    {
+      "title": "Bukele dément les accusations de bombardements",
+      "site": "Lambi News",
+      "date": null,
+      "href": "https://www.lambinews.com/articles/haiti-accuse-de-bombardements-contre-des-civils-bukele-defend-ses-soldats-et-denonce-de-fausses-informations"
+    },
+    {
+      "title": "Vidéo de sauvetage à Durán",
+      "site": "AFP Factual",
+      "date": null,
+      "href": "https://factual.afp.com/doc.afp.com.D4V37G4"
+    },
+    {
+      "title": "Vidéo filmée à Usulután",
+      "site": "AFP Factual",
+      "date": null,
+      "href": "https://factual.afp.com/doc.afp.com.D4YL9NQ"
+    },
+    {
+      "title": "Prévisions mensuelles Haïti, sept. 2026",
+      "site": "Security Council Report",
+      "date": null,
+      "href": "https://www.securitycouncilreport.org/monthly-forecast/2026-09/haiti-36.php"
+    },
+    {
+      "title": "Point de vue du Kenya sur la MSS",
+      "site": "Présidence du Kenya",
+      "date": null,
+      "href": "https://www.president.go.ke/wp-content/uploads/DURING-THE-HIGH-LEVEL-SIDE-EVENT-ON-THE-MULTINATIONAL-SECURITY-SUPPORT-MISSION-TO-HAITI-KENYAS-PERSPECTIVE.pdf"
+    },
+    {
+      "title": "La FRG met en garde contre les rumeurs",
+      "site": "Amitié FM",
+      "date": null,
+      "href": "https://www.amitiefm.ht/post/la-frg-met-en-garde-contre-les-rumeurs-susceptibles-de-mettre-des-vies-en-danger"
+    },
+    {
+      "title": "Contenus nuisibles en ligne en Haïti (rapport)",
+      "site": "Search for Common Ground",
+      "date": null,
+      "href": "https://cnxus.org/wp-content/uploads/2026/09/261026-SFCG-Haiti-research-report_Eng.pdf"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "lang": "fr-CA",
+  "title": "Haïti Vérif",
+  "tagline": "Vérification des faits sur la force anti-gangs",
+  "full_title": "Haïti : vérification des faits sur la force anti-gangs",
+  "description": "Rumeurs vérifiées et faits de référence sur la Force de répression des gangs (FRG/GSF) et l'ex-mission MSS dirigée par le Kenya, à jour au 15 novembre 2026.",
+  "updated": "2026-11-15",
+  "updated_display": "15 novembre 2026",
+  "base_path": "verif-haiti",
+  "site_url": "https://lund2026.github.io/verif-haiti",
+  "author": "Haïti Vérif",
+  "frg_warning": "La FRG a elle-même averti que les gangs se servent de rumeurs pour perturber les opérations et que la désinformation peut mettre des vies en danger.",
+  "frg_warning_url": "https://www.amitiefm.ht/post/la-frg-met-en-garde-contre-les-rumeurs-susceptibles-de-mettre-des-vies-en-danger",
+  "effectifs_note": "Les chiffres d'effectifs changent vite; vérifier la date de chaque source avant de les citer."
+}
