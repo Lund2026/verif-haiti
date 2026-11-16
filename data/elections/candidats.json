@@ -1,12 +1,12 @@
 {
- "snapshot_utc": "2026-11-16T01:44:13Z",
- "snapshot_display": "15 novembre 2026 à 20 h 44 (heure d'Haïti, UTC−5)",
- "snapshot_note": "Relevé effectué avant la clôture des inscriptions en ligne prévue le 15 novembre 2026 à minuit. Les chiffres peuvent encore changer.",
+ "snapshot_utc": "2026-11-16T13:23:06Z",
+ "snapshot_display": "16 novembre 2026 à 8 h 23 (heure d'Haïti, UTC−5)",
+ "snapshot_note": "Relevé effectué après la clôture des inscriptions en ligne (présidentielle, Sénat, députation) prévue le 15 novembre 2026 à minuit. Les chiffres du tableau sont préliminaires et peuvent encore changer. Le 14 novembre, le CEP a signalé des dysfonctionnements de sa plateforme d'inscription liés à une panne de la messagerie Microsoft Outlook (note CEP/DC/095-2526); aucune prolongation n'avait été annoncée au moment du relevé.",
  "source_tableau": "https://tableau.cephaiti.ht/",
  "source_api": "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Président",
  "avis_cep": "Les données affichées sont dynamiques et strictement préliminaires. La liste officielle et définitive des candidats sera publiée par le CEP uniquement après le processus de vérification et de validation des dossiers.",
  "statut_affiche": "Inscrit en ligne (non validé par le CEP)",
- "total_tableau": 11069,
+ "total_tableau": 11166,
  "postes": [
   {
    "poste": "Président",
@@ -16,33 +16,33 @@
   },
   {
    "poste": "Sénateur",
-   "inscrits": 522,
-   "hommes": 447,
-   "femmes": 75
+   "inscrits": 535,
+   "hommes": 456,
+   "femmes": 79
   },
   {
    "poste": "Député",
-   "inscrits": 1811,
-   "hommes": 1679,
-   "femmes": 132
+   "inscrits": 1855,
+   "hommes": 1716,
+   "femmes": 139
   },
   {
    "poste": "Maire",
-   "inscrits": 2608,
-   "hommes": 1679,
-   "femmes": 929
+   "inscrits": 2629,
+   "hommes": 1690,
+   "femmes": 939
   },
   {
    "poste": "CASEC",
-   "inscrits": 3630,
-   "hommes": 2389,
-   "femmes": 1241
+   "inscrits": 3637,
+   "hommes": 2394,
+   "femmes": 1243
   },
   {
    "poste": "ASEC",
-   "inscrits": 2465,
-   "hommes": 1453,
-   "femmes": 1012
+   "inscrits": 2477,
+   "hommes": 1459,
+   "femmes": 1018
   }
  ],
  "president": [

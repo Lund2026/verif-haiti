@@ -1,6 +1,54 @@
 {
-  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 15 novembre 2026.",
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 16 novembre 2026.",
   "links": [
+    {
+      "title": "Première offensive de la FRG dans l'Artibonite (Gros-Morne)",
+      "site": "Miami Herald",
+      "date": "15 nov. 2026",
+      "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318093599.html"
+    },
+    {
+      "title": "Opérations de la FRG au nord de Gros-Morne (Carnifice)",
+      "site": "FRG sur X",
+      "date": "15 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2122100516897370254"
+    },
+    {
+      "title": "Opération de la FRG dans l'Artibonite : cinq morts; massacre de Morne-Robert",
+      "site": "Diario Libre (EFE)",
+      "date": "15 nov. 2026",
+      "href": "https://www.diariolibre.com/mundo/haiti/2026/11/15/operacion-de-la-gsf-en-artibonito-deja-cinco-muertos-entre-pandilleros/3721564"
+    },
+    {
+      "title": "Gros-Morne : Fils-Aimé salue une opération PNH-FRG avec les forces sri-lankaises",
+      "site": "NAGO News",
+      "date": "15 nov. 2026",
+      "href": "https://news.nago.tv/en/gros-morne-fils-aime-salue-une-operation-pnh-frg-avec-les-forces-sri-lankaises"
+    },
+    {
+      "title": "Le ministre de la Justice représentera le premier ministre au Salvador",
+      "site": "Infobae (EFE)",
+      "date": "15 nov. 2026",
+      "href": "https://www.infobae.com/america/agencias/2026/11/15/ministro-de-justicia-representara-a-primer-ministro-de-haiti-en-conferencia-en-el-salvador/"
+    },
+    {
+      "title": "Des chiens robots armés apparaissent dans l'offensive en Haïti",
+      "site": "Newsweek",
+      "date": "nov. 2026",
+      "href": "https://www.newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398"
+    },
+    {
+      "title": "Des supporters haïtiens scandent « Bukele » à Miami",
+      "site": "NAGO News",
+      "date": "15 nov. 2026",
+      "href": "https://news.nago.tv/es/bukele-bukele-des-supporters-haitiens-scandent-le-nom-du-president-salvadorien-a-miami"
+    },
+    {
+      "title": "Panne de Microsoft Outlook : note de presse du CEP (CEP/DC/095-2526)",
+      "site": "CEP sur X",
+      "date": "14 nov. 2026",
+      "href": "https://x.com/cep_haiti/status/2121917393228140794"
+    },
     {
       "title": "Opération de la FRG à Fort-Dimanche : 18 armes saisies",
       "site": "NAGO News",

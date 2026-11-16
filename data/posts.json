@@ -1,6 +1,78 @@
 {
   "posts": [
     {
+      "slug": "chiens-robots-armes-attaquent-gangs",
+      "title": "Des chiens robots armés auraient attaqué les gangs aux côtés des forces salvadoriennes",
+      "claim": "Des chiens robots armés déployés par Bukele attaquent les criminels en Haïti et sèment la panique chez les gangs",
+      "circulated": "X (publications en français et en portugais, plus de 10 000 et 18 000 vues, 15 nov.)",
+      "verdict": "Trompeur",
+      "facts": "Ajout 16 nov. : des chiens robots équipés de fusils apparaissent bien dans la vidéo publiée sur X par Nayib Bukele le 12 nov., lors de la reprise du stade Sylvio-Cator, une opération menée dans le cadre de l'accord bilatéral Haïti-Salvador, hors FRG. Mais la vidéo les montre seulement en train de circuler dans des couloirs et des escaliers : elle ne les montre pas tirer, et aucune preuve vérifiée de façon indépendante n'établit qu'ils ont attaqué des membres de gangs ou participé à un combat (Newsweek). Le gouvernement salvadorien n'a précisé ni le fabricant, ni l'armement, ni la manière dont les robots sont commandés, ni leur rôle dans l'opération (Newsweek, Fox News). Le Salvador avait présenté en septembre une unité canine robotique, d'abord décrite comme servant à détecter des substances illicites. Aucune source ne documente une « panique » des gangs causée par ces robots.",
+      "date": "2026-11-16",
+      "date_display": "16 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-16",
+      "sources": [
+        {
+          "title": "Des chiens robots armés apparaissent dans l'offensive en Haïti",
+          "site": "Newsweek",
+          "date": "nov. 2026",
+          "href": "https://www.newsweek.com/machine-gun-dog-robots-haiti-el-salvador-12712398",
+          "primary": true
+        },
+        {
+          "title": "Les chiens robots utilisés par l'armée salvadorienne en Haïti",
+          "site": "BBC Mundo",
+          "date": "13 nov. 2026",
+          "href": "https://www.bbc.com/mundo/articles/cmvg2d9qjw3lo",
+          "primary": false
+        },
+        {
+          "title": "Des chiens robots armés de fusils utilisés lors de la reprise du stade",
+          "site": "Fox News",
+          "date": "nov. 2026",
+          "href": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
+      "slug": "supporters-haitiens-scandent-bukele-miami",
+      "title": "Des supporters haïtiens auraient scandé « Bukele » dans un stade de Miami",
+      "claim": "Une foule de Haïtiens a acclamé Nayib Bukele dans le stade Nu de Miami",
+      "circulated": "X (publications en espagnol et en anglais, plusieurs milliers de partages, 14-15 nov.)",
+      "verdict": "Vrai",
+      "facts": "Ajout 16 nov. : une partie des supporters haïtiens a bien scandé « Bukele, Bukele » le samedi 14 nov. au Nu Stadium de Miami, pendant le match aller des quarts de finale de la Ligue des nations de la Concacaf entre Haïti et les États-Unis (défaite d'Haïti 6-0). Des drapeaux salvadoriens et des pancartes de remerciement étaient visibles, et les gradins ont aussi scandé « Bwa Kale » et « Debloke peyi a » (NAGO, Infobae). Bukele a relayé une vidéo de la scène sur X; les sources consultées ne font pas état de sa présence au stade. Haïti joue ses matchs « à domicile » hors du pays depuis 2021 pour des raisons de sécurité. Ces chants expriment l'opinion d'une partie de la diaspora présente au match, pas un sondage de l'opinion haïtienne.",
+      "date": "2026-11-16",
+      "date_display": "16 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-16",
+      "sources": [
+        {
+          "title": "« Bukele ! Bukele ! » : des supporters haïtiens scandent le nom du président salvadorien à Miami",
+          "site": "NAGO News",
+          "date": "15 nov. 2026",
+          "href": "https://news.nago.tv/es/bukele-bukele-des-supporters-haitiens-scandent-le-nom-du-president-salvadorien-a-miami",
+          "primary": true
+        },
+        {
+          "title": "Chants pour Bukele et drapeaux salvadoriens au match d'Haïti à Miami",
+          "site": "Infobae",
+          "date": "15 nov. 2026",
+          "href": "https://www.infobae.com/el-salvador/2026/11/15/canticos-para-bukele-y-banderas-de-el-salvador-en-el-partido-de-haiti-en-miami/",
+          "primary": false
+        },
+        {
+          "title": "Des supporters haïtiens scandent « Bukele » pendant un match à Miami",
+          "site": "El Diario de Hoy",
+          "date": "15 nov. 2026",
+          "href": "https://www.elsalvador.com/noticias/internacional/haitianos-corean-bukele/1304194/2026/",
+          "primary": false
+        }
+      ],
+      "order": 1
+    },
+    {
       "slug": "onu-22-milliards-baisse-criminalite",
       "title": "L’ONU aurait envoyé 22 milliards de dollars à Haïti, et la criminalité aurait baissé en trois semaines",
       "claim": "L'ONU aurait envoyé 22 milliards de dollars à Haïti en 30 ans, et Bukele aurait fait baisser la criminalité en Haïti en trois semaines",
