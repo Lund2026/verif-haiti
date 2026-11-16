@@ -1,0 +1,248 @@
+{
+ "snapshot_utc": "2026-11-16T01:44:13Z",
+ "snapshot_display": "15 novembre 2026 à 20 h 44 (heure d'Haïti, UTC−5)",
+ "snapshot_note": "Relevé effectué avant la clôture des inscriptions en ligne prévue le 15 novembre 2026 à minuit. Les chiffres peuvent encore changer.",
+ "source_tableau": "https://tableau.cephaiti.ht/",
+ "source_api": "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Président",
+ "avis_cep": "Les données affichées sont dynamiques et strictement préliminaires. La liste officielle et définitive des candidats sera publiée par le CEP uniquement après le processus de vérification et de validation des dossiers.",
+ "statut_affiche": "Inscrit en ligne (non validé par le CEP)",
+ "total_tableau": 11069,
+ "postes": [
+  {
+   "poste": "Président",
+   "inscrits": 33,
+   "hommes": 30,
+   "femmes": 3
+  },
+  {
+   "poste": "Sénateur",
+   "inscrits": 522,
+   "hommes": 447,
+   "femmes": 75
+  },
+  {
+   "poste": "Député",
+   "inscrits": 1811,
+   "hommes": 1679,
+   "femmes": 132
+  },
+  {
+   "poste": "Maire",
+   "inscrits": 2608,
+   "hommes": 1679,
+   "femmes": 929
+  },
+  {
+   "poste": "CASEC",
+   "inscrits": 3630,
+   "hommes": 2389,
+   "femmes": 1241
+  },
+  {
+   "poste": "ASEC",
+   "inscrits": 2465,
+   "hommes": 1453,
+   "femmes": 1012
+  }
+ ],
+ "president": [
+  {
+   "nom": "ADRIEN",
+   "prenom": "DANIEST",
+   "structure": "PRC",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "BARRAU",
+   "prenom": "LUCIEN OLIVIER",
+   "structure": "MTH",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "BASTIEN",
+   "prenom": "KELY C.",
+   "structure": "DELIVRANS",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "BODEAU",
+   "prenom": "GARY",
+   "structure": "P.R",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "CELESTIN",
+   "prenom": "JUDE",
+   "structure": "ENA",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "DELILLE",
+   "prenom": "LUCMANNE",
+   "structure": "DEBOUT CITOYEN",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "DERONNETH",
+   "prenom": "DEUS",
+   "structure": "DVNH",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "DORFEUILLE",
+   "prenom": "GANDHY",
+   "structure": "ANF",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "DROUILLARD",
+   "prenom": "MARC ARTHUR",
+   "structure": "MRN",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "DUPUY",
+   "prenom": "DOMINIQUE",
+   "structure": "PVD",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "DUROCHER",
+   "prenom": "MOISE",
+   "structure": "SOL AYITI",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "ELIE",
+   "prenom": "JUDE",
+   "structure": "PUR",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "EMILE",
+   "prenom": "ETZER S.",
+   "structure": "SOLEY",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "GUE",
+   "prenom": "JOANAS",
+   "structure": "KAPAB",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "JEAN-PIERRE",
+   "prenom": "RICARDO",
+   "structure": "PANAH",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "JEUDY",
+   "prenom": "WILSON",
+   "structure": "VAR",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "JOSEPH",
+   "prenom": "CLAUDE",
+   "structure": "EDE",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "JOSEPH",
+   "prenom": "HANS JACQUES LUDWIG",
+   "structure": "ESCANP",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "JOSEPH",
+   "prenom": "MAXO",
+   "structure": "RCH",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "JOSEPH",
+   "prenom": "WILNER",
+   "structure": "VIKTWA",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "LUMARQUE",
+   "prenom": "JACKY",
+   "structure": "MYEL",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "MARTELLY",
+   "prenom": "JOSEPH MICHEL",
+   "structure": "DEBLOKE",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "MOISE",
+   "prenom": "MARIE ETIENNE MARTINE JOSEPH",
+   "structure": "GAD",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "MOURRA",
+   "prenom": "MUNIR JOSEPH",
+   "structure": "MPH",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "MUSCADIN",
+   "prenom": "JEAN ERNEST",
+   "structure": "FCN",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "NESTOR",
+   "prenom": "MICHELET",
+   "structure": "DPA",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "PRIVERT",
+   "prenom": "JOCELERME",
+   "structure": "AYITI TRANSFOME",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "RENOIS",
+   "prenom": "JEAN CLARENS",
+   "structure": "UNIR AYITI INI",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "SALOMON",
+   "prenom": "JEAN-MARIE JUNIOR",
+   "structure": "OPL",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "SANON",
+   "prenom": "WALSONN",
+   "structure": "ANFOS POU SOVE LONE",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "SAVARY",
+   "prenom": "MARIE ANNE SAVANNAH HADID",
+   "structure": "HAMAD",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "ST FORT",
+   "prenom": "RENÉ",
+   "structure": "PRN",
+   "position": "Titulaire"
+  },
+  {
+   "nom": "TARDIEU",
+   "prenom": "PHILIPPE GERARD JERRY",
+   "structure": "EAPH",
+   "position": "Titulaire"
+  }
+ ]
+}

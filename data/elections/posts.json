@@ -1,0 +1,161 @@
+{
+ "posts": [
+  {
+   "slug": "elections-decembre-2026",
+   "title": "Les élections auraient lieu en décembre 2026",
+   "claim": "Le premier tour de la présidentielle et des législatives aurait lieu le 13 décembre 2026",
+   "circulated": "Ancien calendrier du CEP du 27 juillet 2026, toujours en ligne sur cephaiti.ht",
+   "verdict": "Faux",
+   "facts": "Date périmée. Le calendrier publié par le CEP le 27 juillet 2026 fixait bien le premier tour au 13 décembre 2026. Mais le 5 octobre 2026, le CEP a reporté la période de campagne et annoncé un calendrier actualisé. Ce calendrier actualisé, publié le 28 octobre 2026 (note CEP/DC/081-2526), fixe le premier tour de la présidentielle et des législatives, avec la ratification populaire, au 18 juillet 2027, et le second tour, avec les élections des collectivités territoriales, au 4 octobre 2027. Le président du CEP a rappelé ces dates le 5 novembre 2026. Avant cela, le calendrier 2025 du CEP prévoyait un premier tour le 30 août 2026. En décembre 2026, le calendrier en vigueur prévoit seulement l'analyse des dossiers de candidature et l'affichage de la liste préliminaire, le 15 décembre.",
+   "sources": [
+    {
+     "title": "Calendrier électoral actualisé 2026-2027 (PDF)",
+     "site": "cephaiti.ht",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf",
+     "primary": true
+    },
+    {
+     "title": "Publication du calendrier électoral actualisé",
+     "site": "cephaiti.ht",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/publication-du-calendrier-electoral-actualise/"
+    },
+    {
+     "title": "Prolongation de la période d'inscription en ligne des candidats et ajustement de certaines échéances",
+     "site": "cephaiti.ht",
+     "date": "5 oct. 2026",
+     "href": "https://cephaiti.ht/prolongation-de-la-periode-dinscription-en-ligne-des-candidats-et-ajustement-de-certaines-echeances-du-processus-electoral/"
+    },
+    {
+     "title": "Publication officielle du calendrier électoral 2026-2027 (ancien calendrier)",
+     "site": "cephaiti.ht",
+     "date": "27 juil. 2026",
+     "href": "https://cephaiti.ht/publication-officielle-du-calendrier-electoral-2026-2027/"
+    },
+    {
+     "title": "Élections et droits de l'homme : le CEP prône le respect des droits fondamentaux",
+     "site": "cephaiti.ht",
+     "date": "5 nov. 2026",
+     "href": "https://cephaiti.ht/elections-et-droits-de-lhomme-le-cep-prone-le-respect-des-droits-fondamentaux-lors-dun-atelier-consacre-aux-garanties-democratiques/"
+    }
+   ],
+   "order": 0,
+   "date": "2026-11-15",
+   "date_display": "15 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-15",
+   "section": "elections"
+  },
+  {
+   "slug": "inscrit-tableau-cep-candidat-officiel",
+   "title": "Être inscrit sur le tableau du CEP ferait de quelqu'un un candidat officiel",
+   "claim": "Les personnes qui figurent sur le tableau public du CEP seraient des candidats officiels, acceptés par le CEP",
+   "circulated": "Lecture du tableau public des inscriptions en ligne du CEP (tableau.cephaiti.ht), ouvert pendant la période d'inscription",
+   "verdict": "Trompeur",
+   "facts": "Le tableau public du CEP existe bel et bien et recense les inscriptions en ligne (33 à la présidence au relevé du 15 novembre 2026 à 20 h 44, heure d'Haïti). Mais le CEP précise sur ce tableau que les données sont « dynamiques et strictement préliminaires » et que la liste officielle et définitive des candidats ne sera publiée qu'après vérification et validation des dossiers. Selon le calendrier actualisé du 28 octobre 2026, les candidats doivent encore déposer leurs pièces jusqu'au 30 novembre 2026; le CEP analyse ensuite les dossiers du 1er au 15 décembre, affiche la liste préliminaire le 15 décembre 2026 et publie la liste définitive le 11 janvier 2027. D'ici là, une personne inscrite en ligne n'est pas un candidat accepté.",
+   "sources": [
+    {
+     "title": "Tableau public des inscriptions en ligne",
+     "site": "tableau.cephaiti.ht",
+     "date": "relevé du 15 nov. 2026",
+     "href": "https://tableau.cephaiti.ht/",
+     "primary": true
+    },
+    {
+     "title": "Clôture de l'inscription en ligne des candidats le 15 novembre et du dépôt des pièces le 30 novembre 2026 (note 092)",
+     "site": "cephaiti.ht",
+     "date": "10 nov. 2026",
+     "href": "https://cephaiti.ht/cloture-de-la-periode-dinscription-en-ligne-des-candidats-le-15-novembre-et-de-celle-consacree-au-depot-des-pieces-le-30-novembre-2026/"
+    },
+    {
+     "title": "Calendrier électoral actualisé 2026-2027 (PDF)",
+     "site": "cephaiti.ht",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf"
+    }
+   ],
+   "order": 1,
+   "date": "2026-11-15",
+   "date_display": "15 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-15",
+   "section": "elections"
+  },
+  {
+   "slug": "faux-compte-facebook-cep",
+   "title": "Une page Facebook au nom du CEP diffuserait des informations officielles",
+   "claim": "Un compte Facebook qui se présente comme le Conseil électoral provisoire et renvoie vers cephaiti.ht publierait des informations officielles du CEP",
+   "circulated": "Facebook (compte au nom du CEP signalé par l'institution début novembre 2026)",
+   "verdict": "Faux",
+   "facts": "Selon plusieurs médias haïtiens, le CEP a dénoncé dans une note de presse du 3 novembre 2026 (référence CEP/DC/082-2526) un faux compte Facebook qui utilise son nom et associe ses publications à son site cephaiti.ht. Le CEP dit avoir signalé le compte à Meta pour obtenir sa suspension et ne reconnaît aucune responsabilité pour ses contenus. Réserve : au 15 novembre 2026, le texte original de cette note n'a pas été trouvé sur le site cephaiti.ht; cette fiche s'appuie sur les comptes rendus de presse. Pour toute information officielle, consulter le site cephaiti.ht, le compte X @cep_haiti et la page Facebook facebook.com/haiticep.",
+   "sources": [
+    {
+     "title": "Le CEP alerte contre un faux compte Facebook utilisant son identité institutionnelle",
+     "site": "Fact Checking News (FCN)",
+     "date": "4 nov. 2026",
+     "href": "https://fcnhaiti.com/le-cep-alerte-contre-un-faux-compte-facebook-utilisant-son-identite-institutionnelle/",
+     "primary": true
+    },
+    {
+     "title": "CEP : alerte contre un faux compte Facebook usurpant son identité",
+     "site": "La Brève Info",
+     "date": "nov. 2026",
+     "href": "https://labreve.info/cep-alerte-contre-un-faux-compte-facebook-usurpant-son-identite/"
+    },
+    {
+     "title": "Haïti : le CEP dénonce un faux compte Facebook utilisant son identité institutionnelle",
+     "site": "Le Reflet",
+     "date": "nov. 2026",
+     "href": "https://www.lerefletht.com/post/ha%C3%AFti-le-cep-d%C3%A9nonce-un-faux-compte-facebook-utilisant-son-identit%C3%A9-institutionnelle"
+    },
+    {
+     "title": "Page Facebook officielle du CEP",
+     "site": "facebook.com",
+     "href": "https://www.facebook.com/haiticep/"
+    }
+   ],
+   "order": 2,
+   "date": "2026-11-15",
+   "date_display": "15 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-15",
+   "section": "elections"
+  },
+  {
+   "slug": "campagne-electorale-deja-ouverte",
+   "title": "La campagne électorale serait déjà ouverte",
+   "claim": "Les partis et candidats pourraient déjà faire campagne pour les élections de 2027",
+   "circulated": "Activités politiques assimilables à une campagne, qui ont poussé le CEP à publier une mise en garde (note 065, 28 sept. 2026)",
+   "verdict": "Faux",
+   "facts": "Le 28 septembre 2026, le CEP a rappelé (note CEP/DC/065-2526) que la période officielle de campagne n'avait pas commencé et que, selon l'article 193 du Décret électoral du 2 juin 2026, il lui revient de la fixer. Il a invité partis, groupements et candidats à s'abstenir de toute activité assimilable à une campagne en dehors de cette période. Le 5 octobre 2026, le CEP a reporté la période de campagne initialement prévue. Le calendrier actualisé du 28 octobre 2026 fixe désormais la campagne du premier tour du 15 avril au 17 juillet 2027, et celle du second tour du 3 septembre au 2 octobre 2027.",
+   "sources": [
+    {
+     "title": "Le CEP met en garde contre toute campagne électorale prématurée (note 065)",
+     "site": "cephaiti.ht",
+     "date": "28 sept. 2026",
+     "href": "https://cephaiti.ht/le-conseil-electoral-provisoire-met-en-garde-contre-toute-campagne-electorale-prematuree/",
+     "primary": true
+    },
+    {
+     "title": "Note 065 (PDF)",
+     "site": "cephaiti.ht",
+     "date": "28 sept. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/09/NOTE-65-INTERDICTION-CAMPAGNE-AVANT-LA-DATE-OFFICIELLE-1.pdf"
+    },
+    {
+     "title": "Calendrier électoral actualisé 2026-2027 (PDF)",
+     "site": "cephaiti.ht",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf"
+    }
+   ],
+   "order": 3,
+   "date": "2026-11-15",
+   "date_display": "15 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-15",
+   "section": "elections"
+  }
+ ]
+}

@@ -606,3 +606,39 @@ main {
   a { color: inherit; }
   .card, .fact-block, .callout { box-shadow: none; }
 }
+
+/* Section Élections */
+.section-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 0.1rem 0.55rem;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+.subnav { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+.subnav a {
+  border: 1px solid var(--line);
+  background: var(--bg-card);
+  border-radius: 999px;
+  padding: 0.3rem 0.85rem;
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+.subnav a[aria-current="page"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.callout-alert { border-left-color: var(--trompeur); background: var(--trompeur-bg); }
+.callout-alert .callout-lead { color: var(--trompeur); }
+.callout-alert p + p { margin-top: 0.5rem; }
+.table-wrap { overflow-x: auto; margin: 1.2rem 0; }
+.data-table { width: 100%; border-collapse: collapse; background: var(--bg-card); font-size: 0.95rem; }
+.data-table caption { text-align: left; font-size: 0.9rem; color: var(--ink-soft); padding-bottom: 0.5rem; }
+.data-table th, .data-table td { border-bottom: 1px solid var(--line); padding: 0.5rem 0.7rem; text-align: left; vertical-align: top; }
+.data-table thead th { background: var(--bg); font-weight: 700; }
+.data-table .num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.data-table tfoot th, .data-table tfoot td { font-weight: 700; border-bottom: none; }
+.tips { margin: 0.8rem 0 0; padding-left: 1.2rem; color: var(--ink-soft); }

@@ -1,0 +1,33 @@
+{
+ "intro": "Section consacrée aux élections générales prévues en Haïti en 2027 : calendrier officiel, inscriptions publiées par le Conseil électoral provisoire (CEP) et vérification des rumeurs électorales. Ce blog n'est affilié à aucun parti, candidat ni au CEP.",
+ "avertissement_titre": "Inscrit en ligne ne veut pas dire candidat officiel",
+ "avertissement": "Le tableau public du CEP recense des inscriptions en ligne. Le CEP les qualifie lui-même de « dynamiques et strictement préliminaires » : la liste officielle des candidats ne sera publiée qu'après vérification et validation des dossiers (liste préliminaire prévue le 15 décembre 2026, liste définitive le 11 janvier 2027).",
+ "verifier_titre": "Comment vérifier une info électorale",
+ "verifier": [
+  {
+   "label": "Site officiel du CEP",
+   "href": "https://cephaiti.ht/",
+   "detail": "Notes de presse, calendrier électoral et documents officiels."
+  },
+  {
+   "label": "Tableau public des inscriptions",
+   "href": "https://tableau.cephaiti.ht/",
+   "detail": "Inscriptions en ligne, strictement préliminaires."
+  },
+  {
+   "label": "Compte X officiel du CEP (@cep_haiti)",
+   "href": "https://x.com/cep_haiti",
+   "detail": "Annonces officielles."
+  },
+  {
+   "label": "Page Facebook officielle du CEP",
+   "href": "https://www.facebook.com/haiticep/",
+   "detail": "Le CEP a signalé en novembre 2026 un faux compte Facebook à son nom : vérifiez l'adresse de la page."
+  }
+ ],
+ "conseils": [
+  "Vérifiez la date du document : plusieurs calendriers successifs sont encore en ligne.",
+  "Une note du CEP porte une référence (par exemple CEP/DC/092-2526), une date et un lieu (Pétion-Ville). Cherchez-la sur cephaiti.ht.",
+  "Méfiez-vous des captures d'écran sans lien vers la source."
+ ]
+}

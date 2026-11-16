@@ -27,6 +27,7 @@ VERDICT_SLUG = {
 NAV = [
     ("index.html", "Accueil", "accueil"),
     ("index.html#verifications", "Vérifications", "verifications"),
+    ("elections/index.html", "Élections", "elections"),
     ("faits.html", "Faits de référence", "faits"),
     ("chronologie.html", "Chronologie", "chrono"),
     ("comment-verifier.html", "Comment vérifier", "guide"),
@@ -204,6 +205,12 @@ def layout(
 """
 
 
+def section_tag(post: dict) -> str:
+    if post.get("section") == "elections":
+        return '<span class="section-tag">Élections</span>'
+    return ""
+
+
 def render_home(site, posts, retenir) -> str:
     counts = {k: 0 for k in VERDICT_SLUG}
     for p in posts:
@@ -233,7 +240,7 @@ def render_home(site, posts, retenir) -> str:
             updated_label = f"Mis à jour le {p['updated_display']}"
         cards.append(
             f"""<li class="card" data-verdict="{html.escape(p['verdict'])}">
-  <div class="card-top">{badge(p['verdict'])}<time class="date" datetime="{html.escape(p.get('updated') or p['date'])}">{esc(updated_label)}</time></div>
+  <div class="card-top">{badge(p['verdict'])}{section_tag(p)}<time class="date" datetime="{html.escape(p.get('updated') or p['date'])}">{esc(updated_label)}</time></div>
   <h2><a href="{url}">{esc(p['title'])}</a></h2>
   <p class="card-circ">Où ça circule&nbsp;: {esc(p['circulated'])}</p>
   <a class="card-more" href="{url}">Lire la vérification</a>
@@ -319,11 +326,18 @@ def render_article(site, post, prev_post, next_post) -> str:
             f'<a class="next" href="{href(1, "articles/" + next_post["slug"] + ".html")}">{esc(next_post["title"])} →</a>'
         )
     pager = f'<nav class="pager" aria-label="Articles voisins">{"".join(pager_parts)}</nav>' if pager_parts else ""
+    elections_back = ""
+    if post.get("section") == "elections":
+        elections_back = (
+            f'<p class="warning-note">Cette fiche fait partie de la section <a href="{href(1, "elections/index.html")}">Élections</a>. '
+            f'Voir aussi le <a href="{href(1, "elections/calendrier.html")}">calendrier officiel</a> et les '
+            f'<a href="{href(1, "elections/candidats.html")}">inscriptions publiées par le CEP</a>.</p>'
+        )
 
     body = f"""
       <article class="article-page">
         <div class="article-kicker">
-          {badge(post['verdict'], large=True)}
+          {badge(post['verdict'], large=True)}{section_tag(post)}
           <p class="meta-line" style="margin:0;">
             <time datetime="{html.escape(time_attr)}">{esc(date_label)}</time>{updated_html}
           </p>
@@ -351,6 +365,7 @@ def render_article(site, post, prev_post, next_post) -> str:
           {source_items(post['sources'], 1)}
         </section>
 
+        {elections_back}
         {pager}
       </article>
 """
@@ -360,7 +375,7 @@ def render_article(site, post, prev_post, next_post) -> str:
         title=post["title"],
         description=desc[:220],
         depth=1,
-        active="verifications",
+        active="elections" if post.get("section") == "elections" else "verifications",
         body=body,
         page_path=f"articles/{post['slug']}.html",
     )
@@ -466,6 +481,8 @@ def render_apropos(site, sources, n_posts: int) -> str:
         <p>Ce blog rassemble des vérifications de faits sur les rumeurs qui circulent au sujet de la Force de répression des gangs (FRG, en anglais Gang Suppression Force, GSF), de l’ex-mission MSS dirigée par le Kenya, et des déploiements étrangers connexes en Haïti, notamment le déploiement salvadorien de la fin octobre 2026.</p>
         <p>Il n’est affilié ni à la FRG, ni à l’Organisation des Nations Unies, ni au gouvernement haïtien, ni au gouvernement salvadorien, ni à un parti politique. Son objet est de documenter les affirmations en circulation et de les comparer aux sources officielles et aux médias fiables déjà cités.</p>
 
+        <p>Depuis le 15 novembre 2026, une section <a href="{href(0, 'elections/index.html')}">Élections</a> applique la même méthode aux rumeurs sur les élections prévues en 2027. Elle s’appuie d’abord sur les publications officielles du Conseil électoral provisoire (CEP) et ne prend parti pour aucun candidat ni aucune structure politique.</p>
+
         <h2>Méthode</h2>
         <p>Chaque fiche porte sur une affirmation précise. La méthode est la suivante&nbsp;:</p>
         <ul>
@@ -504,6 +521,214 @@ def render_apropos(site, sources, n_posts: int) -> str:
         active="apropos",
         body=body,
         page_path="a-propos.html",
+    )
+
+
+# ---------------------------------------------------------------------------
+# Section Élections
+# ---------------------------------------------------------------------------
+
+def elections_subnav(active: str) -> str:
+    items = [
+        ("elections/index.html", "Vue d'ensemble", "home"),
+        ("elections/candidats.html", "Inscriptions à la présidence", "candidats"),
+        ("elections/calendrier.html", "Calendrier officiel", "calendrier"),
+    ]
+    links = []
+    for target, label, key in items:
+        cur = ' aria-current="page"' if key == active else ""
+        links.append(f'<a href="{href(1, target)}"{cur}>{esc(label)}</a>')
+    return '<nav class="subnav" aria-label="Section Élections">' + " ".join(links) + "</nav>"
+
+
+def elections_notice(faits, cand) -> str:
+    return f"""<section class="callout callout-alert" aria-labelledby="avis-cep">
+        <p class="callout-lead" id="avis-cep">{esc(faits['avertissement_titre'])}</p>
+        <p>{esc(faits['avertissement'])}</p>
+        <p class="meta-line" style="margin-top:0.6rem;">Relevé du tableau du CEP&nbsp;: {esc(cand['snapshot_display'])}. {esc(cand['snapshot_note'])}</p>
+      </section>"""
+
+
+def elections_verifier_box(faits) -> str:
+    items = []
+    for v in faits["verifier"]:
+        items.append(
+            f'<li><a href="{html.escape(v["href"])}" rel="noopener noreferrer">{esc(v["label"])}</a>'
+            f'<span class="source-meta">{esc(v["detail"])}</span></li>'
+        )
+    tips = "".join(f"<li>{esc(t)}</li>" for t in faits["conseils"])
+    return f"""<section class="fact-block" aria-labelledby="verifier-elec">
+        <h2 id="verifier-elec">{esc(faits['verifier_titre'])}</h2>
+        <ul class="source-list">{''.join(items)}</ul>
+        <ul class="tips">{tips}</ul>
+      </section>"""
+
+
+def render_elections_home(site, faits, cal, cand, posts) -> str:
+    milestones = []
+    for m in cal["prochaines"]:
+        milestones.append(
+            f'<li><span class="t-date">{esc(format_iso_date_display(m["date"]))}</span><p>{esc(m["label"])}</p></li>'
+        )
+    rows = []
+    for x in cand["postes"]:
+        rows.append(
+            f'<tr><td>{esc(x["poste"])}</td><td class="num">{x["inscrits"]:,}</td></tr>'.replace(",", "\u202f")
+        )
+    total = f"{cand['total_tableau']:,}".replace(",", "\u202f")
+    cards = []
+    for p in posts:
+        url = href(1, f"articles/{p['slug']}.html")
+        cards.append(
+            f"""<li class="card" data-verdict="{html.escape(p['verdict'])}">
+  <div class="card-top">{badge(p['verdict'])}<time class="date" datetime="{html.escape(p.get('updated') or p['date'])}">{esc(p.get('date_display') or format_iso_date_display(p['date']))}</time></div>
+  <h2><a href="{url}">{esc(p['title'])}</a></h2>
+  <p class="card-circ">Où ça circule&nbsp;: {esc(p['circulated'])}</p>
+  <a class="card-more" href="{url}">Lire la vérification</a>
+</li>"""
+        )
+    body = f"""
+      <header class="page-header">
+        <h1>Élections en Haïti 2026-2027</h1>
+        <p class="lede">{esc(faits['intro'])}</p>
+        {elections_subnav('home')}
+      </header>
+
+      {elections_notice(faits, cand)}
+
+      <section class="fact-block" aria-labelledby="dates-cles">
+        <h2 id="dates-cles">Dates clés du calendrier officiel</h2>
+        <p>Selon le <a href="{html.escape(cal['source_pdf'])}" rel="noopener noreferrer">calendrier électoral actualisé</a> publié par le CEP le 28 octobre 2026&nbsp;:</p>
+        <ol class="timeline">{''.join(milestones)}</ol>
+        <p><a href="{href(1, 'elections/calendrier.html')}">Voir le calendrier complet et les reports successifs</a></p>
+      </section>
+
+      <section class="fact-block" aria-labelledby="inscrits">
+        <h2 id="inscrits">Inscriptions en ligne par poste</h2>
+        <p>Chiffres du <a href="{html.escape(cand['source_tableau'])}" rel="noopener noreferrer">tableau public du CEP</a>, relevés le {esc(cand['snapshot_display'])}. Ce sont des inscriptions en ligne, pas des candidatures acceptées.</p>
+        <table class="data-table">
+          <thead><tr><th scope="col">Poste</th><th scope="col" class="num">Inscriptions en ligne</th></tr></thead>
+          <tbody>{''.join(rows)}</tbody>
+          <tfoot><tr><th scope="row">Total</th><td class="num">{total}</td></tr></tfoot>
+        </table>
+        <p class="meta-line">Pour les postes de maire, CASEC et ASEC (collectivités territoriales), l'inscription en ligne se poursuit jusqu'au 30 novembre 2026. <a href="{href(1, 'elections/candidats.html')}">Voir les inscriptions à la présidence</a></p>
+      </section>
+
+      <section aria-labelledby="verif-elec">
+        <h2 id="verif-elec" style="font-family:var(--font-serif);font-size:1.5rem;margin:1.5rem 0 0.6rem;">Rumeurs électorales vérifiées</h2>
+        <ul class="card-list">
+          {''.join(cards)}
+        </ul>
+      </section>
+
+      {elections_verifier_box(faits)}
+"""
+    return layout(
+        site=site,
+        title="Élections",
+        description="Calendrier officiel, inscriptions publiées par le CEP et rumeurs vérifiées sur les élections en Haïti 2026-2027.",
+        depth=1,
+        active="elections",
+        body=body,
+        page_path="elections/index.html",
+    )
+
+
+def render_elections_candidats(site, faits, cand) -> str:
+    rows = []
+    for i, c in enumerate(cand["president"], 1):
+        rows.append(
+            f"<tr><td class=\"num\">{i}</td><td>{html.escape(c['nom'])}</td><td>{html.escape(c['prenom'])}</td>"
+            f"<td>{html.escape(c['structure'])}</td><td>{esc(cand['statut_affiche'])}</td></tr>"
+        )
+    pres = next((x for x in cand["postes"] if x["poste"] == "Président"), None)
+    count = pres["inscrits"] if pres else len(cand["president"])
+    body = f"""
+      <header class="page-header">
+        <h1>Inscriptions en ligne à la présidence</h1>
+        <p class="lede">Liste des {len(cand['president'])} inscriptions en ligne au poste de président, telle que publiée par le Conseil électoral provisoire (CEP), classée par ordre alphabétique. Les noms et les sigles des structures politiques sont reproduits tels que le CEP les publie.</p>
+        {elections_subnav('candidats')}
+      </header>
+
+      {elections_notice(faits, cand)}
+
+      <div class="table-wrap">
+        <table class="data-table">
+          <caption>Inscriptions en ligne au poste de président (tableau du CEP, relevé du {esc(cand['snapshot_display'])}, {count} inscriptions)</caption>
+          <thead><tr><th scope="col" class="num">#</th><th scope="col">Nom</th><th scope="col">Prénom(s)</th><th scope="col">Structure (sigle publié par le CEP)</th><th scope="col">Statut</th></tr></thead>
+          <tbody>{''.join(rows)}</tbody>
+        </table>
+      </div>
+
+      <section class="fact-block">
+        <h2>Source</h2>
+        <ul class="source-list">
+          <li><a href="{html.escape(cand['source_tableau'])}" rel="noopener noreferrer">Tableau public des inscriptions en ligne du CEP</a><span class="source-meta">tableau.cephaiti.ht · relevé du {esc(cand['snapshot_display'])}</span></li>
+          <li><a href="{html.escape(cand['source_api'])}" rel="noopener noreferrer">Données brutes du tableau (poste&nbsp;: Président)</a><span class="source-meta">tableau.cephaiti.ht</span></li>
+        </ul>
+        <p>Avis du CEP sur ce tableau&nbsp;: «&nbsp;{esc(cand['avis_cep'])}&nbsp;»</p>
+        <p>Ce blog ne publie pas de biographie ni de commentaire sur les personnes inscrites. Il mettra cette page à jour après la publication de la liste préliminaire (prévue le 15 décembre 2026) et de la liste définitive (prévue le 11 janvier 2027).</p>
+      </section>
+"""
+    return layout(
+        site=site,
+        title="Inscriptions en ligne à la présidence",
+        description="Liste des inscriptions en ligne au poste de président publiée par le CEP, strictement préliminaire et non validée.",
+        depth=1,
+        active="elections",
+        body=body,
+        page_path="elections/candidats.html",
+    )
+
+
+def render_elections_calendrier(site, faits, cal) -> str:
+    rows = []
+    for e in cal["echeances"]:
+        if e["debut"] == e["fin"]:
+            when = format_iso_date_display(e["debut"])
+        else:
+            when = f"Du {format_iso_date_display(e['debut'])} au {format_iso_date_display(e['fin'])}"
+        rows.append(
+            f'<tr><td class="num">{esc(e["ref"])}</td><td>{esc(e["activite"])}</td><td>{esc(when)}</td></tr>'
+        )
+    reps = []
+    for r in cal["reports"]:
+        reps.append(
+            f'<li><span class="t-date">{esc(format_iso_date_display(r["date_publication"]))} · {esc(r["statut"])}</span>'
+            f'<p><a href="{html.escape(r["href"])}" rel="noopener noreferrer">{esc(r["titre"])}</a>&nbsp;: {esc(r["resume"])}</p></li>'
+        )
+    body = f"""
+      <header class="page-header">
+        <h1>Calendrier électoral officiel 2026-2027</h1>
+        <p class="lede">{esc(cal['intro'])}</p>
+        {elections_subnav('calendrier')}
+      </header>
+
+      <div class="table-wrap">
+        <table class="data-table">
+          <caption>Échéances principales du calendrier actualisé (CEP, 28 octobre 2026), par ordre chronologique</caption>
+          <thead><tr><th scope="col" class="num">Étape</th><th scope="col">Activité</th><th scope="col">Date</th></tr></thead>
+          <tbody>{''.join(rows)}</tbody>
+        </table>
+      </div>
+      <p class="meta-line">Sources&nbsp;: <a href="{html.escape(cal['source_pdf'])}" rel="noopener noreferrer">calendrier actualisé 2026-2027 (PDF)</a> · <a href="{html.escape(cal['source_annonce'])}" rel="noopener noreferrer">annonce du CEP</a> · <a href="{html.escape(cal['source_note'])}" rel="noopener noreferrer">note de presse CEP/DC/081-2526 (PDF)</a>. Le calendrier prévoit aussi des étapes pour le vote des Haïtiens vivant à l'étranger (étape 21) : consulter le PDF.</p>
+
+      <section class="callout" aria-labelledby="reports">
+        <p class="callout-lead" id="reports">Reports successifs</p>
+        <p>{esc(cal['reports_intro'])}</p>
+        <ol class="timeline" style="margin-top:0.8rem;">{''.join(reps)}</ol>
+      </section>
+
+      {elections_verifier_box(faits)}
+"""
+    return layout(
+        site=site,
+        title="Calendrier électoral officiel",
+        description="Calendrier électoral actualisé 2026-2027 du CEP et reports successifs des élections en Haïti.",
+        depth=1,
+        active="elections",
+        body=body,
+        page_path="elections/calendrier.html",
     )
 
 
@@ -550,7 +775,7 @@ def render_rss(site, posts) -> str:
       <link>{xml_escape(link)}</link>
       <guid isPermaLink="{guid_perm}">{xml_escape(guid)}</guid>
       <pubDate>{pub}</pubDate>
-      <category>{xml_escape(p['verdict'])}</category>
+      <category>{xml_escape(p['verdict'])}</category>{"<category>Élections</category>" if p.get("section") == "elections" else ""}
       <description><![CDATA[{desc}]]></description>
     </item>"""
         )
@@ -588,6 +813,13 @@ def build() -> None:
 
     site = load("site.json")
     posts = load("posts.json")["posts"]
+    el_posts = load("elections/posts.json")["posts"]
+    for ep in el_posts:
+        ep["section"] = "elections"
+    posts = posts + el_posts
+    el_cand = load("elections/candidats.json")
+    el_cal = load("elections/calendrier.json")
+    el_faits = load("elections/faits_elections.json")
     faits = load("faits.json")
     chrono = load("chronologie.json")
     guide = load("guide.json")
@@ -607,6 +839,11 @@ def build() -> None:
     write(OUTPUT / "a-propos.html", render_apropos(site, sources, len(posts)))
     write(OUTPUT / "404.html", render_404(site))
     write(OUTPUT / "feed.xml", render_rss(site, posts_sorted))
+
+    el_sorted = [p for p in posts_sorted if p.get("section") == "elections"]
+    write(OUTPUT / "elections" / "index.html", render_elections_home(site, el_faits, el_cal, el_cand, el_sorted))
+    write(OUTPUT / "elections" / "candidats.html", render_elections_candidats(site, el_faits, el_cand))
+    write(OUTPUT / "elections" / "calendrier.html", render_elections_calendrier(site, el_faits, el_cal))
 
     (OUTPUT / "articles").mkdir(parents=True, exist_ok=True)
     for i, post in enumerate(posts_sorted):
@@ -643,6 +880,9 @@ def build() -> None:
         "comment-verifier.html",
         "a-propos.html",
         "feed.xml",
+        "elections/index.html",
+        "elections/candidats.html",
+        "elections/calendrier.html",
     ] + [f"articles/{p['slug']}.html" for p in posts_sorted]
     sitemap = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n"
     for p in pages:

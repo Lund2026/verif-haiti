@@ -1,0 +1,210 @@
+{
+ "intro": "Échéances principales du calendrier électoral actualisé 2026-2027, publié par le Conseil électoral provisoire (CEP) le 28 octobre 2026. Le document officiel compte 40 étapes; seules les principales sont reprises ici, avec leur numéro dans le calendrier.",
+ "publication": "2026-10-28",
+ "source_pdf": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf",
+ "source_annonce": "https://cephaiti.ht/publication-du-calendrier-electoral-actualise/",
+ "source_note": "https://cephaiti.ht/wp-content/uploads/2026/10/NOTE-81-CALENDRIER.pdf",
+ "prochaines": [
+  {
+   "date": "2026-11-15",
+   "label": "Fin de l'inscription en ligne des candidats à la présidence, au Sénat et à la Chambre des députés (minuit)"
+  },
+  {
+   "date": "2026-11-30",
+   "label": "Fin du dépôt des pièces requises (présidentielle, sénatoriales, députation) et de l'inscription en ligne des candidats aux collectivités territoriales"
+  },
+  {
+   "date": "2026-12-15",
+   "label": "Affichage de la liste préliminaire des candidats (présidentielle, sénatoriales, députation)"
+  },
+  {
+   "date": "2027-01-11",
+   "label": "Publication de la liste définitive des candidats (président, sénateurs, députés)"
+  },
+  {
+   "date": "2027-07-18",
+   "label": "Premier tour de la présidentielle et des législatives, et ratification populaire (référendum constitutionnel)"
+  },
+  {
+   "date": "2027-10-04",
+   "label": "Second tour de la présidentielle et des législatives, et élections des collectivités territoriales"
+  }
+ ],
+ "echeances": [
+  {
+   "ref": "14.1",
+   "activite": "Inscription des électeurs",
+   "debut": "2026-07-20",
+   "fin": "2027-05-20"
+  },
+  {
+   "ref": "13.1",
+   "activite": "Inscription en ligne des membres, adhérents et sympathisants des partis et groupements politiques",
+   "debut": "2026-08-20",
+   "fin": "2026-11-08"
+  },
+  {
+   "ref": "13.2",
+   "activite": "Inscription en ligne des candidats aux présidentielle, sénatoriales, députation",
+   "debut": "2026-08-20",
+   "fin": "2026-11-15"
+  },
+  {
+   "ref": "13.3",
+   "activite": "Inscription en ligne des candidats aux collectivités territoriales",
+   "debut": "2026-08-20",
+   "fin": "2026-11-30"
+  },
+  {
+   "ref": "13.5",
+   "activite": "Dépôt des pièces requises pour les candidats aux collectivités territoriales",
+   "debut": "2026-08-20",
+   "fin": "2026-12-30"
+  },
+  {
+   "ref": "13.4",
+   "activite": "Dépôt des pièces requises pour les présidentielle, sénatoriale, députation",
+   "debut": "2026-09-01",
+   "fin": "2026-11-30"
+  },
+  {
+   "ref": "13.6",
+   "activite": "Analyse des dossiers : présidentielle, sénatoriale, députation",
+   "debut": "2026-12-01",
+   "fin": "2026-12-15"
+  },
+  {
+   "ref": "13.8",
+   "activite": "Affichage de la liste préliminaire : présidentielle, sénatoriale, députation",
+   "debut": "2026-12-15",
+   "fin": "2026-12-15"
+  },
+  {
+   "ref": "13.21",
+   "activite": "Publication de la liste définitive pour président, sénateurs et députés",
+   "debut": "2027-01-11",
+   "fin": "2027-01-11"
+  },
+  {
+   "ref": "13.23",
+   "activite": "Affichage de la liste préliminaire : élections collectivités territoriales",
+   "debut": "2027-01-14",
+   "fin": "2027-01-14"
+  },
+  {
+   "ref": "13.35",
+   "activite": "Publication de la liste définitive : collectivités territoriales",
+   "debut": "2027-02-08",
+   "fin": "2027-02-08"
+  },
+  {
+   "ref": "20.3",
+   "activite": "Campagne électorale premier tour",
+   "debut": "2027-04-15",
+   "fin": "2027-07-17"
+  },
+  {
+   "ref": "14.3",
+   "activite": "Fermeture du registre électoral",
+   "debut": "2027-05-20",
+   "fin": "2027-05-20"
+  },
+  {
+   "ref": "14.4",
+   "activite": "Publication des listes électorales",
+   "debut": "2027-06-19",
+   "fin": "2027-06-19"
+  },
+  {
+   "ref": "14.5",
+   "activite": "Contestations relatives à l'inscription ou la radiation d'électeurs",
+   "debut": "2027-06-20",
+   "fin": "2027-06-29"
+  },
+  {
+   "ref": "22",
+   "activite": "Jour du scrutin premier tour présidentielle, législatives et ratification populaire",
+   "debut": "2027-07-18",
+   "fin": "2027-07-18"
+  },
+  {
+   "ref": "24",
+   "activite": "Publication et affichage des résultats de la ratification populaire",
+   "debut": "2027-07-20",
+   "fin": "2027-07-20"
+  },
+  {
+   "ref": "26",
+   "activite": "Publication et affichage des résultats préliminaires du premier tour présidentielle et législatives",
+   "debut": "2027-07-22",
+   "fin": "2027-07-22"
+  },
+  {
+   "ref": "28",
+   "activite": "Publication et affichage des résultats définitifs du 1er tour présidentielle, législatives",
+   "debut": "2027-08-09",
+   "fin": "2027-08-09"
+  },
+  {
+   "ref": "32",
+   "activite": "Campagne électorale 2e tour législatives et présidentielle et collectivités territoriales",
+   "debut": "2027-09-03",
+   "fin": "2027-10-02"
+  },
+  {
+   "ref": "35",
+   "activite": "Jour du scrutin 2e tour législatives, présidentielle et collectivités territoriales",
+   "debut": "2027-10-04",
+   "fin": "2027-10-04"
+  },
+  {
+   "ref": "37",
+   "activite": "Publication et affichage des résultats préliminaires 2e tour législatives, présidentielle et collectivités territoriales",
+   "debut": "2027-10-06",
+   "fin": "2027-10-07"
+  },
+  {
+   "ref": "39",
+   "activite": "Publication et affichage des résultats définitifs du 2e tour législatives, présidentielle",
+   "debut": "2027-10-20",
+   "fin": "2027-10-20"
+  },
+  {
+   "ref": "40",
+   "activite": "Publication et affichage des résultats définitifs des collectivités territoriales",
+   "debut": "2027-10-23",
+   "fin": "2027-10-23"
+  }
+ ],
+ "reports_intro": "La date du premier tour a changé à plusieurs reprises. Les anciennes dates restent en ligne et peuvent prêter à confusion : seule la plus récente fait foi.",
+ "reports": [
+  {
+   "date_publication": "2025-12-23",
+   "titre": "Calendrier électoral 2025",
+   "resume": "Premier tour de la présidentielle et des législatives fixé au 30 août 2026; second tour et élections locales prévus le 6 décembre 2026.",
+   "href": "https://cephaiti.ht/calendrier-electoral-2025/",
+   "statut": "Remplacé"
+  },
+  {
+   "date_publication": "2026-07-27",
+   "titre": "Publication officielle du calendrier électoral 2026-2027",
+   "resume": "Premier tour et ratification populaire fixés au 13 décembre 2026; second tour et élections locales prévus le 21 février 2027.",
+   "href": "https://cephaiti.ht/publication-officielle-du-calendrier-electoral-2026-2027/",
+   "statut": "Remplacé"
+  },
+  {
+   "date_publication": "2026-10-05",
+   "titre": "Prolongation de l'inscription en ligne et ajustement de certaines échéances",
+   "resume": "Le CEP reporte la période de campagne électorale; les nouvelles dates « seront communiquées ultérieurement » dans un calendrier actualisé. Aucune nouvelle date de scrutin n'est alors fixée.",
+   "href": "https://cephaiti.ht/prolongation-de-la-periode-dinscription-en-ligne-des-candidats-et-ajustement-de-certaines-echeances-du-processus-electoral/",
+   "statut": "Remplacé"
+  },
+  {
+   "date_publication": "2026-10-28",
+   "titre": "Publication du calendrier électoral actualisé",
+   "resume": "Premier tour et ratification populaire le 18 juillet 2027; second tour et élections des collectivités territoriales le 4 octobre 2027.",
+   "href": "https://cephaiti.ht/publication-du-calendrier-electoral-actualise/",
+   "statut": "En vigueur"
+  }
+ ]
+}
