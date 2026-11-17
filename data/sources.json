@@ -1,6 +1,54 @@
 {
-  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 16 novembre 2026.",
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 17 novembre 2026.",
   "links": [
+    {
+      "title": "Note de presse CEP/DC/096-2526 : clôture de l'enregistrement en ligne des candidats",
+      "site": "CEP sur X",
+      "date": "17 nov. 2026",
+      "href": "https://x.com/cep_haiti/status/2122654572565148032"
+    },
+    {
+      "title": "Le Salvador se retirera d'Haïti une fois les aviateurs retrouvés, selon un ministre",
+      "site": "AFP (Jamaica Observer)",
+      "date": "16 nov. 2026",
+      "href": "https://www.jamaicaobserver.com/2026/11/16/el-salvador-withdraw-haiti-airmen-rescued-says-minister/"
+    },
+    {
+      "title": "Haïti salue le déploiement des troupes salvadoriennes avant des pourparlers avec Bukele",
+      "site": "Reuters (El Nuevo Herald)",
+      "date": "16 nov. 2026",
+      "href": "https://www.elnuevoherald.com/noticias/estados-unidos/article318107220.html"
+    },
+    {
+      "title": "Salvador : Patrick Pélissier participe à la Conférence internationale sur l'État et la démocratie",
+      "site": "Le Nouvelliste",
+      "date": "16 nov. 2026",
+      "href": "https://lenouvelliste.com/article/273939/salvador-patrick-pelissier-participe-a-la-conference-internationale-sur-letat-et-la-democratie"
+    },
+    {
+      "title": "Haïti – Salvador : un accord bilatéral existe, Bukele refuse de le publier",
+      "site": "Le Quotidien 509",
+      "date": "16 nov. 2026",
+      "href": "https://lequotidien509.com/haiti-salvador-un-accord-bilateral-existe-bukele-refuse-de-le-publier-fils-aime-renouvelle-son-soutien-aux-forces-salvadoriennes/"
+    },
+    {
+      "title": "Le Salvador écarte la publication de l'accord militaire pour opérer en Haïti",
+      "site": "Prensa Latina",
+      "date": "16 nov. 2026",
+      "href": "https://www.prensa-latina.cu/2026/11/16/el-salvador-descarta-divulgar-acuerdo-militar-para-operar-en-haiti/"
+    },
+    {
+      "title": "Haïti : cinq membres présumés de gang tués dans une opération internationale",
+      "site": "La DH (AP)",
+      "date": "16 nov. 2026",
+      "href": "https://www.dhnet.be/actu/monde/2026/11/16/haiti-cinq-membres-presumes-de-gang-tues-dans-une-operation-internationale-LOV6G2AV7RCJXMCQJSLXOPCCPY/"
+    },
+    {
+      "title": "Une arrestation au Congo-Brazzaville présentée comme une opération contre les gangs en Haïti",
+      "site": "AFP Factual",
+      "date": "13 nov. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D7CG2G3"
+    },
     {
       "title": "Première offensive de la FRG dans l'Artibonite (Gros-Morne)",
       "site": "Miami Herald",

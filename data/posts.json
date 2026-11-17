@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "slug": "rapport-renseignement-rencontre-fils-aime-bukele-suspendue",
+      "title": "Un « rapport de renseignement » viral affirme que la rencontre entre Fils-Aimé et Bukele a été suspendue et que le premier ministre est en campagne",
+      "claim": "« Reporte de inteligencia » : la suspension de la rencontre que le premier ministre haïtien, « actuellement en campagne politique », tentait d'obtenir avec Bukele serait « confirmée »; des élites politiques négocieraient en secret la fuite des chefs de gangs; des gangs infiltreraient une prochaine marche pro-Bukele",
+      "circulated": "X (publication en espagnol d'un compte non officiel présentée comme un « rapport de renseignement », plus de 33 000 vues et 150 partages, 16 nov.)",
+      "verdict": "Trompeur",
+      "facts": "Le premier ministre Alix Didier Fils-Aimé ne s'est effectivement pas rendu à San Salvador : le ministre de la Justice et de la Sécurité publique, Patrick Pélissier, a quitté Haïti le 15 novembre pour le représenter à la IIe Conférence internationale sur l'État et la démocratie (16-17 nov.), selon Le Nouvelliste. Mais aucune source officielle ne parle d'une rencontre « suspendue » : selon Reuters, M. Pélissier a expliqué que le premier ministre était resté en Haïti pour préparer de prochaines rencontres avec les autorités salvadoriennes sur une possible prolongation du déploiement; selon Le Quotidien 509, il a aussi évoqué des urgences sécuritaires et une lettre d'excuses adressée aux autorités salvadoriennes. Le premier ministre n'est pas « en campagne » : il ne figure parmi aucun des 11 422 inscrits du tableau public du CEP (relevé du 17 nov.), l'inscription en ligne pour la présidence, le Sénat et la députation est close depuis le 15 novembre (note CEP/DC/096-2526), et la campagne du premier tour ne s'ouvre que le 15 avril 2027 selon le calendrier électoral. Les autres affirmations (négociations secrètes entre « élites » et chefs de gangs, fouille des téléphones par 400 Mawozo, infiltration d'une future marche) reposent sur des « sources » anonymes et ne sont confirmées par aucun média ni aucune autorité. Le seul passage vérifiable sur l'Artibonite est exact : la FRG a annoncé cinq présumés membres de gangs tués et la route nationale 5 dégagée à Gros-Morne (AP, via La DH). Par ailleurs, le Salvador affirme que ses troupes quitteront Haïti une fois les quatre aérotechniciens disparus retrouvés (ministre Gustavo Villatoro, AFP), tandis qu'Haïti souhaite prolonger leur présence.",
+      "date": "2026-11-17",
+      "date_display": "17 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-17",
+      "sources": [
+        {
+          "title": "Salvador : Patrick Pélissier participe à la Conférence internationale sur l'État et la démocratie",
+          "site": "Le Nouvelliste",
+          "date": "16 nov. 2026",
+          "href": "https://lenouvelliste.com/article/273939/salvador-patrick-pelissier-participe-a-la-conference-internationale-sur-letat-et-la-democratie",
+          "primary": true
+        },
+        {
+          "title": "Haïti salue le déploiement des troupes salvadoriennes avant des pourparlers avec Bukele",
+          "site": "Reuters (El Nuevo Herald)",
+          "date": "16 nov. 2026",
+          "href": "https://www.elnuevoherald.com/noticias/estados-unidos/article318107220.html",
+          "primary": false
+        },
+        {
+          "title": "Le Salvador se retirera d'Haïti une fois les aviateurs retrouvés, selon un ministre",
+          "site": "AFP (Jamaica Observer)",
+          "date": "16 nov. 2026",
+          "href": "https://www.jamaicaobserver.com/2026/11/16/el-salvador-withdraw-haiti-airmen-rescued-says-minister/",
+          "primary": false
+        },
+        {
+          "title": "Haïti – Salvador : un accord bilatéral existe, Bukele refuse de le publier",
+          "site": "Le Quotidien 509",
+          "date": "16 nov. 2026",
+          "href": "https://lequotidien509.com/haiti-salvador-un-accord-bilateral-existe-bukele-refuse-de-le-publier-fils-aime-renouvelle-son-soutien-aux-forces-salvadoriennes/",
+          "primary": false
+        },
+        {
+          "title": "Note de presse CEP/DC/096-2526 : clôture de l'enregistrement en ligne des candidats",
+          "site": "CEP sur X",
+          "date": "17 nov. 2026",
+          "href": "https://x.com/cep_haiti/status/2122654572565148032",
+          "primary": false
+        },
+        {
+          "title": "Publication virale analysée",
+          "site": "X",
+          "date": "16 nov. 2026",
+          "href": "https://x.com/CesarMorenoOK1/status/2122416934025035931",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
+      "slug": "arrestation-chefs-gang-congo-brazzaville",
+      "title": "Une vidéo montrerait l'arrestation de deux chefs de gang en Haïti par des soldats salvadoriens",
+      "claim": "« Attention ! Deux dangereux chefs de bande capturés en Haïti » par des « soldats salvadoriens et la police haïtienne »",
+      "circulated": "Facebook (vidéo partagée plus de 500 fois, novembre 2026)",
+      "verdict": "Faux",
+      "facts": "La vidéo a été filmée à Pointe-Noire, en République du Congo (Congo-Brazzaville), et non en Haïti. Une recherche inversée de l'AFP retrouve la même séquence publiée sur Facebook le 29 mai 2026, avec une description en swahili : il s'agit de l'arrestation de deux hommes liés au meurtre d'un jeune homme dans le quartier Thystère. D'autres vidéos montrent les mêmes suspects et la démolition de la maison visible dans la séquence virale. Les images sont donc antérieures de plusieurs mois au déploiement salvadorien en Haïti, commencé fin octobre 2026 après la disparition de quatre aérotechniciens le 18 octobre.",
+      "date": "2026-11-13",
+      "date_display": "13 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-17",
+      "sources": [
+        {
+          "title": "Une arrestation au Congo-Brazzaville présentée comme une opération contre les gangs en Haïti",
+          "site": "AFP Factual",
+          "date": "13 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D7CG2G3",
+          "primary": true
+        }
+      ],
+      "order": 1
+    },
+    {
       "slug": "chiens-robots-armes-attaquent-gangs",
       "title": "Des chiens robots armés auraient attaqué les gangs aux côtés des forces salvadoriennes",
       "claim": "Des chiens robots armés déployés par Bukele attaquent les criminels en Haïti et sèment la panique chez les gangs",

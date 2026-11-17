@@ -1,6 +1,47 @@
 {
  "posts": [
   {
+   "slug": "premier-ministre-fils-aime-en-campagne",
+   "title": "Le premier ministre Alix Didier Fils-Aimé serait déjà en campagne électorale",
+   "claim": "Le premier ministre haïtien est « actuellement en campagne politique »",
+   "circulated": "X (« rapport de renseignement » viral en espagnol, plus de 33 000 vues, 16 nov.)",
+   "verdict": "Faux",
+   "facts": "Alix Didier Fils-Aimé n'apparaît pas sur le tableau public des inscriptions du CEP : ni parmi les 33 inscrits à la présidence, ni parmi les inscrits au Sénat, à la députation ou aux collectivités territoriales (recherche effectuée dans l'API du tableau le 17 nov. 2026 à 8 h 18, heure d'Haïti). L'inscription en ligne des candidats à la présidence, au Sénat et à la députation a pris fin le 15 novembre 2026 à minuit, comme le confirme la note de presse CEP/DC/096-2526 du 16 novembre. Enfin, aucune campagne électorale n'est ouverte : selon le calendrier électoral actualisé du CEP, la campagne du premier tour se déroulera du 15 avril au 17 juillet 2027.",
+   "sources": [
+    {
+     "title": "Note de presse CEP/DC/096-2526 : clôture de l'enregistrement en ligne des candidats",
+     "site": "CEP sur X",
+     "date": "17 nov. 2026",
+     "href": "https://x.com/cep_haiti/status/2122654572565148032",
+     "primary": true
+    },
+    {
+     "title": "Tableau public des inscriptions",
+     "site": "tableau.cephaiti.ht",
+     "date": "17 nov. 2026",
+     "href": "https://tableau.cephaiti.ht/"
+    },
+    {
+     "title": "Calendrier électoral actualisé 2026-2027 (PDF)",
+     "site": "cephaiti.ht",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf"
+    },
+    {
+     "title": "Publication virale analysée",
+     "site": "X",
+     "date": "16 nov. 2026",
+     "href": "https://x.com/CesarMorenoOK1/status/2122416934025035931"
+    }
+   ],
+   "order": 0,
+   "date": "2026-11-17",
+   "date_display": "17 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-17",
+   "section": "elections"
+  },
+  {
    "slug": "elections-decembre-2026",
    "title": "Les élections auraient lieu en décembre 2026",
    "claim": "Le premier tour de la présidentielle et des législatives aurait lieu le 13 décembre 2026",
