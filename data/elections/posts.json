@@ -1,6 +1,47 @@
 {
  "posts": [
   {
+   "slug": "candidatures-validees-par-le-cep",
+   "title": "Les candidatures de Michel Martelly, Jocelerme Privert, Jude Célestin et Claude Joseph auraient été « validées » par le CEP",
+   "claim": "« Candidature validée par le Conseil électoral provisoire (CÉP) » pour plusieurs inscrits à la présidentielle",
+   "circulated": "X (série de publications d'un compte non officiel, 17 nov.)",
+   "verdict": "Faux",
+   "facts": "Ces quatre personnes figurent bien sur le tableau public des inscriptions en ligne du CEP pour la présidence (relevé du 18 nov. 2026), mais aucune candidature n'a encore été validée. Le tableau précise que ses données sont « strictement préliminaires » et que la liste officielle ne sera publiée qu'après vérification et validation des dossiers. Les inscrits ont jusqu'au 30 novembre 2026 pour déposer leurs pièces (note CEP/DC/096-2526). Selon le calendrier électoral actualisé, le CEP affichera la liste préliminaire des candidats le 15 décembre 2026, suivie d'une période de contestation, et publiera la liste définitive le 11 janvier 2027. Le CEP n'a publié aucune liste de candidats agréés sur son site ni sur son compte X officiel @cep_haiti.",
+   "sources": [
+    {
+     "title": "Tableau public des inscriptions (données préliminaires)",
+     "site": "tableau.cephaiti.ht",
+     "date": "18 nov. 2026",
+     "href": "https://tableau.cephaiti.ht/",
+     "primary": true
+    },
+    {
+     "title": "Note de presse CEP/DC/096-2526 : clôture de l'enregistrement en ligne des candidats",
+     "site": "CEP sur X",
+     "date": "17 nov. 2026",
+     "href": "https://x.com/cep_haiti/status/2122654572565148032"
+    },
+    {
+     "title": "Calendrier électoral actualisé 2026-2027 (PDF)",
+     "site": "cephaiti.ht",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf"
+    },
+    {
+     "title": "Exemple de publication analysée",
+     "site": "X",
+     "date": "17 nov. 2026",
+     "href": "https://x.com/NapoCharles04/status/2122805107247161709"
+    }
+   ],
+   "order": 0,
+   "date": "2026-11-18",
+   "date_display": "18 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-18",
+   "section": "elections"
+  },
+  {
    "slug": "premier-ministre-fils-aime-en-campagne",
    "title": "Le premier ministre Alix Didier Fils-Aimé serait déjà en campagne électorale",
    "claim": "Le premier ministre haïtien est « actuellement en campagne politique »",

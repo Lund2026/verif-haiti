@@ -1,6 +1,56 @@
 {
   "posts": [
     {
+      "slug": "accord-haiti-salvador-troupes-jusquaux-elections",
+      "title": "L'accord de coopération entre Haïti et le Salvador garantirait le maintien des troupes salvadoriennes jusqu'aux élections",
+      "claim": "Haïti aurait ratifié un accord de sécurité pour garder les soldats salvadoriens jusqu'aux élections de l'an prochain",
+      "circulated": "X (résumé d'actualité « tendance » généré automatiquement et publications, 17-18 nov.)",
+      "verdict": "Trompeur",
+      "facts": "Le Conseil des ministres haïtien a bien entériné le mardi 17 novembre 2026 un « accord de coopération entre la République d'Haïti et la République du Salvador », selon une publication de la Primature citée par l'AFP. Mais le communiqué ne détaille ni les engagements des deux pays, ni la durée, ni les modalités d'application, et le texte de l'accord n'a pas été rendu public (RHINEWS, Infobae); le vice-président salvadorien Félix Ulloa dit qu'il ne le sera que lorsque les conditions diplomatiques le permettront. Rien ne permet donc d'affirmer que l'accord fixe un maintien des troupes « jusqu'aux élections ». Cette idée vient d'une déclaration du ministre de la Justice et de la Sécurité publique, Patrick Pélissier, à San Salvador : selon RHINEWS, il a dit qu'il n'y avait « pas de date » pour le départ des troupes et que leur appui à la police restait nécessaire, selon lui, au moins jusqu'aux élections prévues en 2027. Du côté salvadorien, le ministre de la Sécurité Gustavo Villatoro répète que le contingent repartira une fois retrouvés les quatre aérotechniciens disparus depuis le 18 octobre (AFP). Le même jour, des milliers de personnes ont manifesté à Port-au-Prince en soutien aux soldats salvadoriens (AFP).",
+      "date": "2026-11-18",
+      "date_display": "18 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-18",
+      "sources": [
+        {
+          "title": "« Merci Bukele » : habitants et gouvernement demandent au Salvador de continuer à aider Haïti",
+          "site": "France 24 / AFP",
+          "date": "18 nov. 2026",
+          "href": "https://www.france24.com/fr/am%C3%A9riques/20261118-haiti-manifestation-soutien-soldats-salvador-nayib-bukele-gangs",
+          "primary": true
+        },
+        {
+          "title": "Haïti : le Conseil des ministres entérine l'accord de coopération avec le Salvador",
+          "site": "RHINEWS",
+          "date": "17 nov. 2026",
+          "href": "https://www.rhinews.com/politique/haiti-le-conseil-des-ministres-enterine-laccord-de-cooperation-avec-le-salvador/",
+          "primary": false
+        },
+        {
+          "title": "Haïti approuve un accord de coopération bilatérale avec le Salvador (texte non divulgué)",
+          "site": "Infobae",
+          "date": "18 nov. 2026",
+          "href": "https://www.infobae.com/el-salvador/2026/11/18/haiti-aprueba-acuerdo-de-cooperacion-bilateral-con-el-salvador-en-medio-de-despliegue-militar-contra-pandillas/",
+          "primary": false
+        },
+        {
+          "title": "Le Salvador se retirera d'Haïti une fois les aviateurs retrouvés, selon un ministre",
+          "site": "AFP (Jamaica Observer)",
+          "date": "16 nov. 2026",
+          "href": "https://www.jamaicaobserver.com/2026/11/16/el-salvador-withdraw-haiti-airmen-rescued-says-minister/",
+          "primary": false
+        },
+        {
+          "title": "Résumé d'actualité « tendance » analysé",
+          "site": "X",
+          "date": "18 nov. 2026",
+          "href": "https://x.com/i/trending/2122968238611107902",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "rapport-renseignement-rencontre-fils-aime-bukele-suspendue",
       "title": "Un « rapport de renseignement » viral affirme que la rencontre entre Fils-Aimé et Bukele a été suspendue et que le premier ministre est en campagne",
       "claim": "« Reporte de inteligencia » : la suspension de la rencontre que le premier ministre haïtien, « actuellement en campagne politique », tentait d'obtenir avec Bukele serait « confirmée »; des élites politiques négocieraient en secret la fuite des chefs de gangs; des gangs infiltreraient une prochaine marche pro-Bukele",
