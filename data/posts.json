@@ -1,6 +1,49 @@
 {
   "posts": [
     {
+      "slug": "jeff-larose-tue-frappe-salvadorienne-canaan",
+      "title": "Le chef de gang Jeff Larose aurait été tué dans la frappe salvadorienne contre sa maison de Canaan",
+      "claim": "« 90 % de chances » que Jeff « Gwo Lwa » soit mort dans l'attaque de sa résidence de Canaan; les quatre Salvadoriens disparus auraient été retenus dans la maison",
+      "circulated": "X (publications en créole et en anglais, 18-19 nov.)",
+      "verdict": "Non vérifié",
+      "facts": "La frappe est réelle : le mercredi 18 novembre 2026, le président salvadorien Nayib Bukele a publié sur X une vidéo montrant des hélicoptères salvadoriens tirant sur la luxueuse résidence de Jeff Larose (alias Jeff Canaan, Jeff Gwo Lwa ou « Taliban »), chef du gang de Canaan, au nord de Port-au-Prince, qu'il a présentée comme son « cadeau au peuple haïtien » pour l'anniversaire de la bataille de Vertières (AP, AFP/Le Temps). Mais aucune source officielle n'a confirmé la mort ni la capture de Jeff Larose : selon l'AP, on ignorait s'il avait été tué, et l'expert Diego Da Rin (International Crisis Group) doute qu'il se trouvait dans la maison, comme Wilson Joseph (« Lanmò Sanjou »), qui avait survécu à l'attaque de son domicile le 8 novembre. Aucune source ne dit non plus que les quatre aérotechniciens salvadoriens disparus depuis le 18 octobre étaient retenus dans cette maison; l'AP indique qu'ils sont toujours portés disparus. La Force de répression des gangs (FRG) affirme ne pas avoir participé à l'opération, et on ignore si la police ou l'armée haïtiennes y ont pris part (AP, HaïtiLibre). Il s'agit de la deuxième résidence de chef de gang détruite par les forces salvadoriennes en moins de deux semaines.",
+      "date": "2026-11-19",
+      "date_display": "19 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-19",
+      "sources": [
+        {
+          "title": "El Salvador's president confirms and celebrates attack on home of key Haitian gang leader",
+          "site": "AP (NBC News)",
+          "date": "18 nov. 2026",
+          "href": "https://www.nbcnews.com/world/haiti/el-salvadors-president-confirms-celebrates-attack-home-key-haitian-gan-rcna610142",
+          "primary": true
+        },
+        {
+          "title": "À Haïti, des troupes salvadoriennes détruisent le domicile d'un chef de gang",
+          "site": "Le Temps / AFP",
+          "date": "18 nov. 2026",
+          "href": "https://www.letemps.ch/monde/ameriques/a-haiti-des-troupes-salvadoriennes-detruisent-le-domicile-d-un-chef-de-gang",
+          "primary": false
+        },
+        {
+          "title": "Le Salvador détruit la luxueuse résidence du chef de gang de Canaan, Jeff Larose",
+          "site": "HaïtiLibre",
+          "date": "18 nov. 2026",
+          "href": "https://www.haitilibre.com/article-48926-haiti-flash-le-salvador-detruit-la-luxueuse-residence-du-puissant-chef-terroriste-de-canaan-jeff-larose.html",
+          "primary": false
+        },
+        {
+          "title": "Exemple de publication analysée",
+          "site": "X",
+          "date": "18 nov. 2026",
+          "href": "https://x.com/roijean1/status/2123065809320755400",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "accord-haiti-salvador-troupes-jusquaux-elections",
       "title": "L'accord de coopération entre Haïti et le Salvador garantirait le maintien des troupes salvadoriennes jusqu'aux élections",
       "claim": "Haïti aurait ratifié un accord de sécurité pour garder les soldats salvadoriens jusqu'aux élections de l'an prochain",

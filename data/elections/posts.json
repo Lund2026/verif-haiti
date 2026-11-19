@@ -1,6 +1,94 @@
 {
  "posts": [
   {
+   "slug": "dominique-dupuy-nationalite-canadienne",
+   "title": "La candidate Dominique Dupuy serait de nationalité canadienne",
+   "claim": "« Je confirme à 100 % qu'elle est de nationalité canadienne » : la candidate devrait publier sa carte de résidente permanente du Canada sous 48 h, faute de quoi elle « assume sa nationalité canadienne »",
+   "circulated": "X (publication vue près de 13 000 fois, 19 nov.)",
+   "verdict": "Non vérifié",
+   "facts": "Dominique Dupuy, ancienne ministre des Affaires étrangères (juin-novembre 2024), figure sur le tableau public du CEP comme inscrite à la présidence pour le Pati Vizyon Dayiti (PVD). L'enjeu est réel : selon l'article 135 de la Constitution amendée, un candidat à la présidence ne doit posséder aucune autre nationalité au moment de son inscription (The Haitian Times). Mais l'auteur de la publication n'apporte aucun document à l'appui de son affirmation. Née au Cap-Haïtien, Mme Dupuy a étudié au Canada (Collège Vanier, Université McGill), ce qui ne prouve pas une nationalité canadienne. Une accusation de double nationalité avait déjà circulé en mars 2024, lors de sa désignation au Conseil présidentiel de transition, sans être confirmée (Radio Télévision Caraïbes). Le raisonnement de la publication ne tient pas non plus : selon le gouvernement du Canada, un résident permanent n'est pas citoyen canadien, et ne pas montrer une carte de résident permanent ne prouve pas qu'on est citoyen. C'est au CEP qu'il revient de vérifier l'éligibilité des inscrits lors de l'examen des dossiers (dépôt des pièces jusqu'au 30 novembre 2026, liste préliminaire prévue le 15 décembre 2026). Aucune vérification publique ne permet à ce jour de confirmer ou d'infirmer l'affirmation.",
+   "sources": [
+    {
+     "title": "Qui peut se présenter à la présidence d'Haïti ? (article 135 de la Constitution et décret électoral)",
+     "site": "The Haitian Times",
+     "date": "7 août 2026",
+     "href": "https://haitiantimes.com/fr/2026/08/07/Qui-peut-%C3%AAtre-pr%C3%A9sident-d%27Ha%C3%AFti-/",
+     "primary": true
+    },
+    {
+     "title": "Comprendre le statut de résident permanent",
+     "site": "Gouvernement du Canada (IRCC)",
+     "date": "consulté le 19 nov. 2026",
+     "href": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/residents-permanents/statut.html"
+    },
+    {
+     "title": "Présidentielle : Dominique Dupuy se lance dans la course",
+     "site": "Le Médiateur",
+     "date": "11 nov. 2026",
+     "href": "https://lemediateurhaiti.com/haiti-presidentielle-dominique-dupuy-se-lance-dans-la-course-apres-un-parcours-entre-diplomatie-et-pouvoir/"
+    },
+    {
+     "title": "Conseil présidentiel : l'ambassadrice Dominique Dupuy se retire",
+     "site": "Radio Télévision Caraïbes",
+     "date": "24 mars 2024",
+     "href": "https://www.radiotelecaraibes.com/conseil-presidentiel-lambassadrice-dominique-dupuy-se-retire/"
+    },
+    {
+     "title": "Tableau public des inscriptions (données préliminaires)",
+     "site": "tableau.cephaiti.ht",
+     "date": "19 nov. 2026",
+     "href": "https://tableau.cephaiti.ht/"
+    },
+    {
+     "title": "Publication analysée",
+     "site": "X",
+     "date": "19 nov. 2026",
+     "href": "https://x.com/DjovanyMICHEL01/status/2123225305989161249"
+    }
+   ],
+   "order": 0,
+   "date": "2026-11-19",
+   "date_display": "19 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-19",
+   "section": "elections"
+  },
+  {
+   "slug": "sondage-isaop-presidentielle",
+   "title": "Un sondage de l'« Institut ISAOP » placerait Hans Joseph en tête de la présidentielle avec 32,5 %",
+   "claim": "Sondage ISAOP du 5 au 15 novembre 2026 : Hans Joseph 32,5 %, Ernst Muscadin 21,8 %, Dominique Dupuy 18,5 %, Etzer Émile 11,2 %, Wilner Joseph 7 %",
+   "circulated": "X (infographie partagée par un compte d'actualité, vue plus de 4 000 fois, 18-19 nov.)",
+   "verdict": "Non vérifié",
+   "facts": "L'infographie attribue ces chiffres à un « Institut des sondages d'opinion publique » (ISAOP), mais elle ne donne ni la taille de l'échantillon, ni la méthode, ni la marge d'erreur, ni le commanditaire, et ne renvoie à aucun rapport. Nous n'avons trouvé aucune trace publique d'un institut de sondage haïtien portant ce nom, ni d'une publication de ce sondage par un média reconnu. L'infographie ne présente que cinq noms alors que 33 personnes sont inscrites à la présidence selon le CEP, et les pourcentages, avec 9 % de « neutres », totalisent exactement 100 %, ce qui laisse penser que seuls ces cinq noms ont été proposés. Les cinq personnes citées figurent bien parmi les inscrits du tableau du CEP (où Muscadin apparaît sous le nom de Jean Ernest Muscadin), mais ces inscriptions sont préliminaires : aucune candidature n'est encore validée. Sans accès à la méthodologie, ces chiffres ne peuvent pas être considérés comme une mesure fiable des intentions de vote.",
+   "sources": [
+    {
+     "title": "Tableau public des inscriptions (données préliminaires)",
+     "site": "tableau.cephaiti.ht",
+     "date": "19 nov. 2026",
+     "href": "https://tableau.cephaiti.ht/",
+     "primary": true
+    },
+    {
+     "title": "Note de presse CEP/DC/096-2526 : clôture de l'enregistrement en ligne des candidats",
+     "site": "cephaiti.ht",
+     "date": "16 nov. 2026",
+     "href": "https://cephaiti.ht/cloture-de-la-periode-denregistrement-en-ligne-des-candidats-a-la-presidence-et-aux-legislatives/"
+    },
+    {
+     "title": "Publication analysée",
+     "site": "X",
+     "date": "18 nov. 2026",
+     "href": "https://x.com/LePointCentral1/status/2123191334471442845"
+    }
+   ],
+   "order": 1,
+   "date": "2026-11-19",
+   "date_display": "19 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-19",
+   "section": "elections"
+  },
+  {
    "slug": "candidatures-validees-par-le-cep",
    "title": "Les candidatures de Michel Martelly, Jocelerme Privert, Jude Célestin et Claude Joseph auraient été « validées » par le CEP",
    "claim": "« Candidature validée par le Conseil électoral provisoire (CÉP) » pour plusieurs inscrits à la présidentielle",
