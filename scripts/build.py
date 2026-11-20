@@ -259,11 +259,6 @@ def render_home(site, posts, retenir) -> str:
         <p class="meta-line">À jour le {esc(site['updated_display'])} · {len(posts)} vérifications</p>
       </header>
 
-      <section class="callout" aria-labelledby="retenir-titre">
-        <p class="callout-lead" id="retenir-titre">{esc(retenir['heading'])} — {esc(retenir['lead'])}</p>
-        <p>{esc(retenir['text'])}</p>
-      </section>
-
       <section id="verifications" aria-labelledby="verif-titre">
         <header class="page-header">
           <h2 id="verif-titre" style="font-family:var(--font-serif);font-size:1.5rem;margin:0 0 0.4rem;">Rumeurs vérifiées</h2>
