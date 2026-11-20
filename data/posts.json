@@ -1,6 +1,106 @@
 {
   "posts": [
     {
+      "slug": "loi-salvadorienne-troupes-octobre-2027-vote-recent",
+      "title": "Le Congrès salvadorien viendrait d'autoriser le maintien de ses troupes en Haïti jusqu'en octobre 2027",
+      "claim": "« Le Congrès salvadorien a approuvé, mardi, une loi spéciale » maintenant les militaires salvadoriens en Haïti jusqu'en octobre 2027 : une « nouvelle étape » qui encadrerait le déploiement actuel des soldats de Bukele",
+      "circulated": "X (dizaines de publications de médias et de comptes haïtiens, dont une vue près de 33 000 fois, 19-20 nov.)",
+      "verdict": "Trompeur",
+      "facts": "La loi existe, mais ce n'est pas une nouvelle. L'Assemblée législative du Salvador a adopté le mardi 29 septembre 2026, par 57 voix sur 60, la « Loi spéciale transitoire pour la participation de la Force armée du Salvador à la Force de répression des gangs (GSF) en Haïti » (décret législatif n° 679), publiée au Journal officiel le 30 septembre et en vigueur depuis le 2 octobre 2026, soit plus de deux semaines avant la disparition des quatre aérotechniciens salvadoriens (Centre de documentation judiciaire du Salvador, AP, El Mundo). Elle autorise cette participation pendant 12 mois, jusqu'en octobre 2027, avec possibilité de prolongation tant que la mission dure, et permet au président Bukele de prendre des dispositions pour que les militaires ne soient pas remis à un tribunal international ou étranger, sous réserve des traités ratifiés par le Salvador. Or, plusieurs publications des 19 et 20 novembre la présentent comme un vote « de mardi » ou une « nouvelle étape », ce qui laisse croire à une décision prise cette semaine, après le déploiement d'environ 2 500 soldats. De plus, le texte vise la participation salvadorienne à la FRG, alors que, selon l'ONU, la grande majorité des soldats salvadoriens arrivés fin octobre n'agissent pas sous le mandat de la FRG. Il ne fixe donc pas, à lui seul, la durée de ce déploiement bilatéral : l'accord de coopération entériné le 17 novembre par le Conseil des ministres haïtien n'a pas été publié.",
+      "date": "2026-11-20",
+      "date_display": "20 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-20",
+      "sources": [
+        {
+          "title": "Ley especial transitoria para la participación de la Fuerza Armada de El Salvador en la Fuerza de Supresión de Pandillas (GSF) en Haití (décret n° 679)",
+          "site": "Centre de documentation judiciaire (jurisprudencia.gob.sv)",
+          "date": "émis le 29 sept. 2026, publié le 30 sept. 2026",
+          "href": "https://www.jurisprudencia.gob.sv/busqueda/showFile.php?bd=2&cesta=0&data=DocumentosBoveda%2FD%2F2%2F2020-2029%2F2026%2F09%2F116CCC.PDF&fecha=30%2F09%2F2026&number=1141964&numero=LEY%3DESPECIAL%3DTRANSITORIA%3DPARA%3DLA%3DPARTICIPACION%3DDE%3DLA%3DFUERZA%3DARMADA%3DDE%3DEL%3DSALVADOR%3DEN%3DLA%3DFUERZA%3DDE%3DSUPRESION%3DDE%3DPANDILLAS%3D%28GSP%29%3DEN%3DHAITI&singlePage=false%27",
+          "primary": true
+        },
+        {
+          "title": "Congreso salvadoreño autoriza que militares participen en fuerza antipandillas en Haití",
+          "site": "AP",
+          "date": "29 sept. 2026",
+          "href": "https://apnews.com/article/el-salvador-haiti-fuerza-antipandillas-ee5f88b1a70b56ea1f8235fb10bd3d46",
+          "primary": false
+        },
+        {
+          "title": "Vigente ley que autoriza participación militar en fuerza antipandillas de Haití",
+          "site": "El Mundo (Salvador)",
+          "date": "16 oct. 2026",
+          "href": "https://diario.elmundo.sv/politica/vigente-ley-que-autoriza-participacion-militar-en-fuerza-antipandillas-de-haiti",
+          "primary": false
+        },
+        {
+          "title": "Haïti : l'ONU clarifie sa relation avec le déploiement militaire du Salvador",
+          "site": "ONU Info",
+          "date": "nov. 2026",
+          "href": "https://news.un.org/fr/story/2026/11/1159776",
+          "primary": false
+        },
+        {
+          "title": "Exemple de publication analysée",
+          "site": "X",
+          "date": "19 nov. 2026",
+          "href": "https://x.com/Radio_Metronome/status/2123486985864237386",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
+      "slug": "martissant-operation-soldats-salvadoriens",
+      "title": "Les soldats salvadoriens auraient participé à l'opération de Martissant qui a fait 34 morts",
+      "claim": "« Selon la PNH », 34 membres de gangs ont été tués à Martissant « avec l'appui de la Task Force et de militaires salvadoriens »; d'autres publications parlent de « plus de 40 » morts et d'un chef de gang tué à Village-de-Dieu",
+      "circulated": "X (publications de médias et de comptes haïtiens et latino-américains, dont une vue près de 9 000 fois, 19-20 nov.)",
+      "verdict": "Trompeur",
+      "facts": "L'opération est réelle : le jeudi 19 novembre 2026, la Police nationale d'Haïti (PNH) a mené, avec l'appui de la Task Force gouvernementale, une vaste opération à Martissant 2, 4 et 23, visant une base du chef de gang Renel Destina (« Ti Lapli », gang de Grand Ravine); la PNH annonce 34 présumés bandits tués (Le Nouvelliste, AFP/France 24). C'est la première opération d'envergure dans ce corridor de la route nationale 2 depuis la prise de contrôle des gangs en 2021 (AP). Mais la PNH a précisé qu'aucun personnel salvadorien n'avait participé à l'opération et qu'aucun policier ni civil n'avait été blessé (Reuters); la Task Force s'appuie sur la société militaire privée Vectus Global, fondée par Erik Prince (AP, Reuters). Le gouvernement salvadorien n'avait pas répondu à Reuters. Attribuer ce bilan à la PNH « avec des militaires salvadoriens » contredit donc la déclaration de la police. Le bilan de 34 morts reste celui de la PNH, sans vérification indépendante; le chiffre de « plus de 40 » morts et la mort d'un chef de gang à Village-de-Dieu, attribués à des sources anonymes, ne sont confirmés par aucune source officielle (Non vérifié). Rien n'indique non plus que Ti Lapli figure parmi les morts.",
+      "date": "2026-11-20",
+      "date_display": "20 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-20",
+      "sources": [
+        {
+          "title": "Haiti police operation kills 34 suspected gang members in capital",
+          "site": "Reuters (ThePrint)",
+          "date": "19 nov. 2026",
+          "href": "https://theprint.in/world/haiti-police-operation-kills-34-suspected-gang-members-in-capital/3103758/",
+          "primary": true
+        },
+        {
+          "title": "Martissant : 34 présumés bandits tués lors d'une opération de la PNH",
+          "site": "Le Nouvelliste",
+          "date": "19 nov. 2026",
+          "href": "https://lenouvelliste.com/article/274052/martissant-34-presumes-bandits-tues-lors-dune-operation-de-la-pnh",
+          "primary": false
+        },
+        {
+          "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+          "site": "AP",
+          "date": "19 nov. 2026",
+          "href": "https://apnews.com/article/haiti-martissant-police-el-salvador-pnh-gangs-69cedb174f2b429b2ca0e9d5dadd4acb",
+          "primary": false
+        },
+        {
+          "title": "La police d'Haïti dit avoir tué 34 membres de gang à Port-au-Prince",
+          "site": "France 24 / AFP",
+          "date": "19 nov. 2026",
+          "href": "https://www.france24.com/fr/am%C3%A9riques/20261119-haiti-police-tue-34-membres-gang-port-au-prince-ti-lapli",
+          "primary": false
+        },
+        {
+          "title": "Exemple de publication analysée",
+          "site": "X",
+          "date": "19 nov. 2026",
+          "href": "https://x.com/TheNancyRoc/status/2123475067422032284",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "jeff-larose-tue-frappe-salvadorienne-canaan",
       "title": "Le chef de gang Jeff Larose aurait été tué dans la frappe salvadorienne contre sa maison de Canaan",
       "claim": "« 90 % de chances » que Jeff « Gwo Lwa » soit mort dans l'attaque de sa résidence de Canaan; les quatre Salvadoriens disparus auraient été retenus dans la maison",
