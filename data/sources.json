@@ -1,6 +1,60 @@
 {
-  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 20 novembre 2026.",
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 21 novembre 2026.",
   "links": [
+    {
+      "title": "Annonce de la détonation dans un campement en Haïti (2 morts, 2 blessés)",
+      "site": "Force armée du Salvador (X)",
+      "date": "20 nov. 2026",
+      "href": "https://x.com/FUERZARMADASV/status/2123840742472704297"
+    },
+    {
+      "title": "Mise à jour : un troisième militaire meurt en République dominicaine",
+      "site": "Force armée du Salvador (X)",
+      "date": "20 nov. 2026",
+      "href": "https://x.com/FUERZARMADASV/status/2123960254153019559"
+    },
+    {
+      "title": "Condoléances aux familles des militaires salvadoriens",
+      "site": "Force de répression des gangs (X)",
+      "date": "20 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2123936393667735661"
+    },
+    {
+      "title": "Nouvelle base au nord de l'aéroport, sur la RN1",
+      "site": "Force de répression des gangs (X)",
+      "date": "19 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2123568237111619879"
+    },
+    {
+      "title": "Two Salvadoran soldiers killed, two hurt in Haiti explosion",
+      "site": "Miami Herald",
+      "date": "20 nov. 2026",
+      "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318180232.html"
+    },
+    {
+      "title": "Three Salvadoran soldiers killed in Haiti while handling explosives",
+      "site": "Al Jazeera / AP",
+      "date": "21 nov. 2026",
+      "href": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives"
+    },
+    {
+      "title": "Deux militaires salvadoriens périssent dans une explosion, deux autres blessés",
+      "site": "Le Nouvelliste",
+      "date": "20 nov. 2026",
+      "href": "https://lenouvelliste.com/article/274115/deux-militaires-salvadoriens-perissent-dans-une-explosion-deux-autres-blesses"
+    },
+    {
+      "title": "Haití acuerda construir tres cárceles con empresas salvadoreñas tras visita al Cecot",
+      "site": "Diario Libre / EFE",
+      "date": "20 nov. 2026",
+      "href": "https://www.diariolibre.com/mundo/america-latina/2026/11/20/haiti-acuerda-construir-tres-carceles-con-empresas-salvadorenas/3727303"
+    },
+    {
+      "title": "Video de reparto de agua en Costa de Marfil se vincula falsamente al despliegue militar en Haití",
+      "site": "AFP Factual",
+      "date": "20 nov. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D87L39E"
+    },
     {
       "title": "Ley especial transitoria para la participación de la Fuerza Armada de El Salvador en la Fuerza de Supresión de Pandillas (GSF) en Haití (décret n° 679)",
       "site": "Centre de documentation judiciaire (jurisprudencia.gob.sv)",

@@ -1,6 +1,92 @@
 {
   "posts": [
     {
+      "slug": "soldats-salvadoriens-tues-par-des-gangs-explosion",
+      "title": "Les soldats salvadoriens morts le 20 novembre auraient été tués par des gangs",
+      "claim": "Deux soldats salvadoriens auraient été tués « par des gangs armés à la Croix-des-Bouquets », ou sous les balles du gang de « Doudoun » alors qu'ils installaient une barricade dans la zone de Pont-Tabarre; d'autres situent l'explosion pendant l'intervention à Martissant",
+      "circulated": "X (publications de comptes haïtiens, dont une vue plus de 1 000 fois, 20 nov.)",
+      "verdict": "Faux",
+      "facts": "La seule source officielle sur ces décès, la Force armée du Salvador (FAES), parle d'un accident, pas d'une attaque. Le vendredi 20 novembre 2026, elle a annoncé sur X que quatre militaires salvadoriens déployés en Haïti « ont été touchés par une détonation alors qu'ils travaillaient avec du matériel explosif dans l'un des campements » : deux sont morts et deux ont été blessés. Le soir même, elle a précisé qu'un des blessés, évacué par avion vers un hôpital de la République dominicaine, y est mort, ce qui porte le bilan à trois morts; le quatrième militaire est hors de danger. La FAES qualifie la détonation d'« accidentelle » et n'a mentionné aucune attaque de gang. Elle n'a précisé ni le campement concerné ni l'identité des victimes; selon le Miami Herald, on ignore encore si l'accident s'est produit au stade Sylvio-Cator ou près de l'aéroport de Tabarre. Aucune source officielle ne lie ces morts à Croix-des-Bouquets, à Pont-Tabarre ni à l'opération de Martissant, menée par la PNH et la Task Force sans militaires salvadoriens, selon la police. La Force de répression des gangs (FRG) a présenté ses condoléances en précisant que ces militaires servaient « sous le commandement national salvadorien », donc hors de la FRG. Ce sont les premiers décès annoncés parmi les quelque 2 500 soldats salvadoriens déployés depuis fin octobre (AP, Al Jazeera). Ils sont distincts des quatre aérotechniciens salvadoriens disparus depuis l'embuscade du 18 octobre à Santo (Croix-des-Bouquets), toujours portés disparus. Plusieurs publications et articles parus vendredi évoquent encore « deux morts » : ce bilan, exact au moment de la première annonce, a été mis à jour depuis. Les circonstances exactes de l'accident n'ont pas été vérifiées de façon indépendante.",
+      "date": "2026-11-21",
+      "date_display": "21 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-21",
+      "sources": [
+        {
+          "title": "« EN DESARROLLO » : quatre militaires touchés par une détonation, deux morts",
+          "site": "Force armée du Salvador (X)",
+          "date": "20 nov. 2026",
+          "href": "https://x.com/FUERZARMADASV/status/2123840742472704297",
+          "primary": true
+        },
+        {
+          "title": "« ACTUALIZACIÓN » : un troisième militaire meurt en République dominicaine",
+          "site": "Force armée du Salvador (X)",
+          "date": "20 nov. 2026",
+          "href": "https://x.com/FUERZARMADASV/status/2123960254153019559",
+          "primary": true
+        },
+        {
+          "title": "Condoléances de la FRG (militaires « sous le commandement national salvadorien »)",
+          "site": "Force de répression des gangs (X)",
+          "date": "20 nov. 2026",
+          "href": "https://x.com/GSForceHaiti/status/2123936393667735661",
+          "primary": false
+        },
+        {
+          "title": "Two Salvadoran soldiers killed, two hurt in Haiti explosion",
+          "site": "Miami Herald",
+          "date": "20 nov. 2026",
+          "href": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318180232.html",
+          "primary": false
+        },
+        {
+          "title": "Three Salvadoran soldiers killed in Haiti while handling explosives",
+          "site": "Al Jazeera / AP",
+          "date": "21 nov. 2026",
+          "href": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives",
+          "primary": false
+        },
+        {
+          "title": "Deux militaires salvadoriens périssent dans une explosion, deux autres blessés",
+          "site": "Le Nouvelliste",
+          "date": "20 nov. 2026",
+          "href": "https://lenouvelliste.com/article/274115/deux-militaires-salvadoriens-perissent-dans-une-explosion-deux-autres-blesses",
+          "primary": false
+        },
+        {
+          "title": "Exemple de publication analysée",
+          "site": "X",
+          "date": "20 nov. 2026",
+          "href": "https://x.com/NissaReese_/status/2123876719379550370",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
+      "slug": "video-eau-soldats-cote-d-ivoire",
+      "title": "Une vidéo montrerait des Haïtiens distribuant de l'eau aux soldats salvadoriens",
+      "claim": "« Des Haïtiens distribuent de l'eau aux soldats salvadoriens » (vidéo de personnes offrant de l'eau à des militaires)",
+      "circulated": "Facebook et autres réseaux, plus de 16 000 partages (AFP Factual)",
+      "verdict": "Faux",
+      "facts": "La vidéo n'a pas été tournée en Haïti. AFP Factual l'a retracée en Côte d'Ivoire : des vidéos semblables circulent depuis août 2026 et montrent des distributions d'eau lors des répétitions du défilé de la fête de l'Indépendance (7 août) à Yopougon, un quartier d'Abidjan. Les personnes qui distribuent l'eau portent des t-shirts « Aboubacar Center », un magasin de meubles d'Abidjan qui a publié des images semblables le 4 août 2026. La télévision publique ivoirienne RTI a diffusé le même jour des images des préparatifs militaires du défilé. La vidéo est devenue virale dans le contexte réel des manifestations de soutien aux soldats salvadoriens à Port-au-Prince le 17 novembre 2026, mais elle n'a aucun lien avec ces événements.",
+      "date": "2026-11-21",
+      "date_display": "21 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-21",
+      "sources": [
+        {
+          "title": "Video de reparto de agua en Costa de Marfil se vincula falsamente al despliegue militar en Haití",
+          "site": "AFP Factual",
+          "date": "20 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D87L39E",
+          "primary": true
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "loi-salvadorienne-troupes-octobre-2027-vote-recent",
       "title": "Le Congrès salvadorien viendrait d'autoriser le maintien de ses troupes en Haïti jusqu'en octobre 2027",
       "claim": "« Le Congrès salvadorien a approuvé, mardi, une loi spéciale » maintenant les militaires salvadoriens en Haïti jusqu'en octobre 2027 : une « nouvelle étape » qui encadrerait le déploiement actuel des soldats de Bukele",
