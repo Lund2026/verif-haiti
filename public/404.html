@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <title>Redirection vers Vérif Haïti</title>
+  <script>
+    (function () {
+      var path = location.pathname.replace(/^\/verif-haiti(?=\/|$)/, "") || "/";
+      location.replace('https://verif-ayiti.github.io' + path + location.search + location.hash);
+    })();
+  </script>
+</head>
+<body>
+  <p>Cette page a déménagé. <a href="https://verif-ayiti.github.io/">Continuer vers le nouvel emplacement</a>.</p>
+</body>
+</html>
